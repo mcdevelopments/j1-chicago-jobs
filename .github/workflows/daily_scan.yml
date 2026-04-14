@@ -41,5 +41,6 @@ jobs:
           else
             COUNT=$(python -c "import json; d=json.load(open('jobs/latest.json')); print(d['total_jobs'])")
             git commit -m "scan: $(date +'%Y-%m-%d') — ${COUNT} jobs found"
-            git push
+            git pull --rebase origin master
+            git push origin master
           fi
