@@ -32,7 +32,7 @@ LOCATION     = "chicago, il"
 LOCATION_LABEL = "Chicago, IL"
 RADIUS_MILES = 35
 SCAN_DATE    = date.today().isoformat()
-DAYS_BACK    = 2          # jobs posted in last N days
+DAYS_BACK    = 30         # jobs posted in last N days
 RESULTS_PER_PAGE = 50
 
 SEARCH_QUERIES = [
@@ -307,8 +307,8 @@ def _write_json(path: Path, data: dict):
 
 def _build_markdown(jobs: list) -> str:
     today_fmt  = datetime.now().strftime("%B %d, %Y")
-    top_picks  = [j for j in jobs if j["j1_score"] >= 65]
-    other_jobs = [j for j in jobs if j["j1_score"] <  65]
+    top_picks  = [j for j in jobs if j["j1_score"] >= 50]
+    other_jobs = [j for j in jobs if j["j1_score"] <  50]
 
     lines = [
         "# 🏙️ Chicago J1 Summer Jobs — Daily Scan",
