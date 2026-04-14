@@ -36,43 +36,120 @@ DAYS_BACK    = 2          # jobs posted in last N days
 RESULTS_PER_PAGE = 50
 
 SEARCH_QUERIES = [
-    "summer jobs student",
-    "seasonal summer work",
-    "summer hospitality",
-    "hotel summer staff",
-    "summer camp counselor",
-    "summer retail associate",
+    # Hospitality & accommodation
+    "summer hotel staff",
+    "summer resort jobs",
+    "front desk receptionist summer",
+    "housekeeping summer hotel",
+    "valet parking summer",
+    # Food & beverage
     "summer restaurant server",
-    "summer recreation tourism",
-    "amusement park summer",
-    "summer internship",
-    "lifeguard summer",
-    "front desk hotel",
-    "summer warehouse",
-    "summer customer service",
+    "barista cafe summer",
+    "summer food service worker",
+    "catering staff summer",
+    "ice cream shop summer",
+    "bakery summer staff",
+    # Retail & shopping
+    "summer retail associate",
+    "summer sales associate",
+    "grocery store seasonal",
+    "summer stock room",
+    # Recreation & leisure
+    "lifeguard summer Chicago",
+    "summer camp counselor",
+    "amusement park summer staff",
+    "golf course summer jobs",
+    "fitness gym summer staff",
+    "summer sports facility",
+    "bowling alley summer",
+    "movie theater summer",
+    # Tourism & events
+    "summer tourism jobs Chicago",
+    "event staff summer Chicago",
+    "stadium event crew",
+    "summer tour guide Chicago",
+    "navy pier summer jobs",
+    # Culture & attractions
+    "zoo aquarium summer staff",
+    "museum summer jobs",
+    "summer attractions staff",
+    # Outdoors & parks
+    "landscaping summer worker",
+    "summer grounds crew",
+    "summer parks recreation",
+    # Logistics & operations
+    "summer warehouse operative",
+    "summer fulfillment center",
+    "summer delivery driver",
+    # Office & admin
+    "summer office admin",
+    "summer data entry",
+    "summer receptionist",
+    # General
+    "summer jobs student Chicago",
+    "seasonal work summer Chicago",
+    "summer internship entry level",
+    "part time summer Chicago",
+    "temporary summer work Chicago",
 ]
 
 J1_POSITIVE_KEYWORDS = [
-    "summer", "seasonal", "temporary", "temp", "part-time",
-    "flexible", "student", "no experience", "will train",
-    "training provided", "entry level", "entry-level",
-    "hospitality", "hotel", "resort", "motel",
-    "restaurant", "cafe", "café", "food service", "barista",
-    "retail", "store associate", "sales associate",
-    "camp", "counselor", "recreation", "leisure",
-    "tourism", "visitor", "guest services", "front desk",
-    "amusement", "theme park", "attractions",
-    "customer service", "team member", "crew member",
-    "lifeguard", "pool", "aquatic",
-    "stadium", "events", "concert", "warehouse", "fulfillment",
+    # Time / contract type
+    "summer", "seasonal", "temporary", "temp", "part-time", "part time",
+    "flexible hours", "flexible schedule", "weekend",
+    # Experience level
+    "student", "no experience", "no experience needed", "will train",
+    "training provided", "training will be provided", "entry level",
+    "entry-level", "junior", "school leaver",
+    # Hospitality
+    "hospitality", "hotel", "resort", "motel", "inn", "lodge",
+    "front desk", "guest services", "concierge", "housekeeping",
+    "valet", "bell staff", "room attendant",
+    # Food & beverage
+    "restaurant", "cafe", "café", "coffee shop", "barista",
+    "food service", "food and beverage", "server", "waiter",
+    "waitress", "busser", "host", "hostess", "dishwasher",
+    "kitchen assistant", "cook", "baker", "ice cream", "catering",
+    # Retail
+    "retail", "store associate", "sales associate", "cashier",
+    "stock associate", "merchandise", "checkout", "supermarket",
+    "grocery", "shop assistant",
+    # Recreation & leisure
+    "camp", "counselor", "recreation", "leisure", "lifeguard",
+    "pool", "aquatic", "swim", "golf", "caddy", "fitness",
+    "gym", "sports", "bowling", "cinema", "movie theater",
+    # Tourism & events
+    "tourism", "visitor", "attractions", "amusement", "theme park",
+    "event staff", "event crew", "stadium", "arena", "concert",
+    "tour guide", "tour operator", "zoo", "aquarium", "museum",
+    "gallery",
+    # Outdoors
+    "landscaping", "grounds", "gardening", "parks",
+    # Logistics
+    "warehouse", "fulfillment", "logistics", "packing", "picking",
+    # General
+    "customer service", "team member", "crew member", "associate",
+    "assistant", "helper", "support",
 ]
 
 J1_NEGATIVE_KEYWORDS = [
-    "security clearance", "permanent resident", "green card",
-    "us citizen only", "work authorization required",
+    # Legal restrictions for J1
+    "security clearance", "clearance required",
+    "permanent resident", "green card", "us citizen only",
+    "work authorization required", "must be authorized",
+    "sponsorship not available", "cannot sponsor",
+    # Not suitable roles
+    "driving required", "cdl required", "taxi", "uber",
+    "door to door sales", "door-to-door",
+    "private household", "domestic service",
+    "patient care", "medical assistant", "nursing",
+    # Seniority
     "senior director", "vice president", "vp ", "chief ",
-    "cfo", "cto", "ceo", "attorney", "phd required", "md required",
-    "full-time permanent", "relocation", "sponsorship not available",
+    "cfo", "cto", "ceo", "attorney", "lawyer",
+    "phd required", "md required", "rn required",
+    "10 years experience", "5 years experience",
+    # Permanence
+    "full-time permanent", "relocation required",
 ]
 
 # ── SCORING ───────────────────────────────────────────────────────────────────
