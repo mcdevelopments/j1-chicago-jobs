@@ -1,21 +1,10 @@
 {
   "scan_date": "2026-04-14",
-  "scanned_at": "2026-04-14T11:42:46Z",
-  "location": "Chicago, IL",
-  "radius_miles": 35,
-  "total_jobs": 26,
+  "scanned_at": "2026-04-14T11:49:05Z",
+  "location": "Lincoln Park, Chicago, IL",
+  "radius_miles": 13,
+  "total_jobs": 8,
   "jobs": [
-    {
-      "title": "Summer Theatre Camp Counselor (part-time/seasonal, $16.00-$18.00/hour)",
-      "company": "Schaumburg Park District",
-      "location": "Hanover Park, Cook County",
-      "url": "https://www.adzuna.com/details/5684788861?utm_medium=api&utm_source=7c00c798",
-      "description": "ABOUT US: The Schaumburg Park District is an award-winning public agency that provides its 80,000 residents with a wide variety of recreational facilities, programs, events, parks and open spaces. SUMMER THEATRE CAMP: Do you have a passion for igniting creativity and fostering cultural understanding? Elevate your summer with us as a Summer Theatre Camp Counselor at the Schaumburg Park District, where you'll guide campers aged 7 to 14 through an u",
-      "date_posted": "2026-03-31",
-      "salary": "$33,280 – $37,440",
-      "source": "Adzuna",
-      "j1_score": 100
-    },
     {
       "title": "Summer Camp Counselor (Seasonal)",
       "company": "Old Town School Of Folk Music",
@@ -26,17 +15,6 @@
       "salary": "$46,236 – $46,236",
       "source": "Adzuna",
       "j1_score": 86
-    },
-    {
-      "title": "Operations & Warehouse Summer Help",
-      "company": "Shure Incorporated",
-      "location": "Wheeling, Cook County",
-      "url": "https://www.adzuna.com/details/5689867362?utm_medium=api&utm_source=7c00c798",
-      "description": "SUMMER HELP OPPORTUNITY 2026 We’re looking for motivated college students to join our team this summer. Under the guidance of the Shift Supervisor, Summer Help Associates support our distribution center by accurately verifying, picking, and preparing materials needed to fulfill customer orders. This Summer Help opportunity is 100% Onsite in Wheeling, IL SHIFT TIME: 10:30 AM - 7:00 PM Verify and count materials needed to complete customer orders P",
-      "date_posted": "2026-04-04",
-      "salary": "$48,896 – $48,896",
-      "source": "Adzuna",
-      "j1_score": 82
     },
     {
       "title": "Part-Time Physical Therapist (PT) Summer - Chicago",
@@ -74,17 +52,6 @@
     {
       "title": "Camp Counselor (Seasonal - Summer)",
       "company": "Saddle & Cycle Club",
-      "location": "Chicago, Cook County",
-      "url": "https://www.adzuna.com/details/5679574499?utm_medium=api&utm_source=7c00c798",
-      "description": "Job Title: Camp Counselor (Seasonal - Summer) Department: Youth Activities Reports to: Camp Director FLSA: Hourly, Non-Exempt General Summary: The Camp Counselor is responsible for leading recreational and educational activities, and supervising young campers at all times. Essential Functions: · Plan outdoor activities or sports for groups of campers · Create weekly or daily schedules taking into account children’s age groups and interests · Lead",
-      "date_posted": "2026-03-26",
-      "salary": "$35,022 – $35,022",
-      "source": "Adzuna",
-      "j1_score": 79
-    },
-    {
-      "title": "Camp Counselor (Seasonal - Summer)",
-      "company": "Saddle & Cycle Club",
       "location": "Andersonville, Chicago",
       "url": "https://www.adzuna.com/details/5681181393?utm_medium=api&utm_source=7c00c798",
       "description": "Job Title: Camp Counselor (Seasonal - Summer) Department: Youth Activities Reports to: Camp Director FLSA: Hourly, Non-Exempt General Summary: The Camp Counselor is responsible for leading recreational and educational activities, and supervising young campers at all times. Essential Functions: · Plan outdoor activities or sports for groups of campers · Create weekly or daily schedules taking into account children’s age groups and interests · Lead",
@@ -92,17 +59,6 @@
       "salary": "$37,440 – $52,000",
       "source": "Adzuna",
       "j1_score": 79
-    },
-    {
-      "title": "Substitute Summer Camp Counselor, Chicago",
-      "company": "Camp Galileo",
-      "location": "Chicago, Cook County",
-      "url": "https://www.adzuna.com/details/5693178223?utm_medium=api&utm_source=7c00c798",
-      "description": "Job Description As a Substitute Camp Counselor, you’ll provide critical support to Galileo campers and teams when staff are absent. You will be an essential presence for each camper, guiding them through an impactful, safe, and engaging summer experience. Staying with the same group throughout their daily rotations, you’ll create a supportive environment that prioritizes both physical and emotional safety. This is a seasonal role; Substitute Summ",
-      "date_posted": "2026-04-08",
-      "salary": "$25,918 – $25,918",
-      "source": "Adzuna",
-      "j1_score": 78
     },
     {
       "title": "Seasonal Restaurant Server",
@@ -114,61 +70,6 @@
       "salary": "$37,142 – $37,142",
       "source": "Adzuna",
       "j1_score": 76
-    },
-    {
-      "title": "Summer Camp Counselor",
-      "company": "Bennett Day School",
-      "location": "Chicago, Cook County",
-      "url": "https://www.adzuna.com/details/5672030263?utm_medium=api&utm_source=7c00c798",
-      "description": "Position Summary: The Summer Camp Counselor position offers an exciting opportunity for energetic, responsible individuals to contribute to a vibrant, child-centered summer camp environment. At Bennett Day Camp, camp counselors bring enthusiasm, flexibility, and creativity to their daily work with children, supporting a fun, safe, and engaging experience while contributing positively to the broader camp community. Requirements Job Qualifications:",
-      "date_posted": "2026-03-19",
-      "salary": "$32,654 – $32,654",
-      "source": "Adzuna",
-      "j1_score": 74
-    },
-    {
-      "title": "Summer Camp Counselor",
-      "company": "Roselle Park District",
-      "location": "Roselle, DuPage County",
-      "url": "https://www.adzuna.com/details/5680010937?utm_medium=api&utm_source=7c00c798",
-      "description": "Position Type: Camp - Seasonal Date Posted: 12/29/2025 Location: 555 W. Brwn Mawr Ave, Roselle IL. 60172 Are you up for the challenge? Join our growing team! The Roselle Park District offers a friendly, small-town feel which is great for families Do you like a job that has variety – not the same thing every day? Do you like being challenged by trying new tasks? Are you good with kids? The Roselle Park District needs you! The Camp Counselor is res",
-      "date_posted": "2026-03-27",
-      "salary": "$59,785 – $59,785",
-      "source": "Adzuna",
-      "j1_score": 74
-    },
-    {
-      "title": "Summer Camp Art Counselor",
-      "company": "Bennett Day School",
-      "location": "Chicago, Cook County",
-      "url": "https://www.adzuna.com/details/5671987379?utm_medium=api&utm_source=7c00c798",
-      "description": "Position Summary: The Summer Camp Counselor position offers an exciting opportunity for energetic, responsible individuals to contribute to a vibrant, child-centered summer camp environment. At Bennett Day Camp, camp counselors bring enthusiasm, flexibility, and creativity to their daily work with children, supporting a fun, safe, and engaging experience while making a positive contribution to the broader camp community. The Art Camp Counselor su",
-      "date_posted": "2026-03-19",
-      "salary": "$39,826 – $39,826",
-      "source": "Adzuna",
-      "j1_score": 74
-    },
-    {
-      "title": "Summer Camp STEM Counselor",
-      "company": "Bennett Day School",
-      "location": "Chicago, Cook County",
-      "url": "https://www.adzuna.com/details/5671940166?utm_medium=api&utm_source=7c00c798",
-      "description": "Position Summary: The Summer Camp Counselor position offers an exciting opportunity for energetic, responsible individuals to contribute to a vibrant, child-centered summer camp environment. At Bennett Day Camp, camp counselors bring enthusiasm, flexibility, and creativity to their daily work with children, supporting a fun, safe, and engaging experience while contributing positively to the broader camp community. The STEM Camp Counselor supports",
-      "date_posted": "2026-03-19",
-      "salary": "$35,926 – $35,926",
-      "source": "Adzuna",
-      "j1_score": 74
-    },
-    {
-      "title": "Summer Camp Coach",
-      "company": "Bennett Day School",
-      "location": "Chicago, Cook County",
-      "url": "https://www.adzuna.com/details/5671924513?utm_medium=api&utm_source=7c00c798",
-      "description": "Position Summary: The Summer Camp Counselor position offers an exciting opportunity for energetic, responsible individuals to contribute to a vibrant, child-centered summer camp environment. At Bennett Day Camp, camp counselors bring enthusiasm, flexibility, and creativity to their daily work with children, supporting a fun, safe, and engaging experience while contributing positively to the broader camp community. The Athletics Camp Counselor lea",
-      "date_posted": "2026-03-19",
-      "salary": "$41,762 – $41,762",
-      "source": "Adzuna",
-      "j1_score": 74
     },
     {
       "title": "Summer Camp Youngest Camper Counselor Lead - Chicago - Lincoln Park",
@@ -191,105 +92,6 @@
       "salary": "$41,062 – $41,062",
       "source": "Adzuna",
       "j1_score": 66
-    },
-    {
-      "title": "Quill Pricing Analytics Intern - June 2026",
-      "company": "Staples",
-      "location": "Lincolnshire, Lake County",
-      "url": "https://www.adzuna.com/details/5680981599?utm_medium=api&utm_source=7c00c798",
-      "description": "Description Staples is business to business. You’re what binds us together. We’re searching for you: fresh talent with new ideas, innovation, passion, and drive to bring to Staples. We have student and graduate opportunities where you’ll help the Staples, Inc. organization be more successful and productive while building a purposeful career. Whether you are looking for a summer internship, co-op, or an entry-level role, we’ll help you develop the",
-      "date_posted": "2026-03-28",
-      "salary": "$54,080 – $60,320",
-      "source": "Adzuna",
-      "j1_score": 66
-    },
-    {
-      "title": "Quill Pricing Analytics Intern - June 2026",
-      "company": "Staples",
-      "location": "Lincolnshire, Lake County",
-      "url": "https://www.adzuna.com/details/5681747839?utm_medium=api&utm_source=7c00c798",
-      "description": "Staples is business to business. You're what binds us together. We're searching for you: fresh talent with new ideas, innovation, passion, and drive to bring to Staples. We have student and graduate opportunities where you'll help the Staples, Inc. organization be more successful and productive while building a purposeful career. Whether you are looking for a summer internship, co-op, or an entry-level role, we'll help you develop the technical a",
-      "date_posted": "2026-03-28",
-      "salary": "$66,820 – $66,820",
-      "source": "Adzuna",
-      "j1_score": 66
-    },
-    {
-      "title": "Camp Counselor",
-      "company": "Life Time",
-      "location": "Northbrook, Cook County",
-      "url": "https://www.adzuna.com/details/5695367374?utm_medium=api&utm_source=7c00c798",
-      "description": "Position Summary The Kids Camp Counselor leads children through a variety of activities including rock climbing, swimming, weekly field trips, arts & crafts, gym games and more. They incorporate nutrition education with weekly-themed camps providing a high level of safety and fun for children from ages three to twelve years. Job Duties and Responsibilities Engages children in interactive activities including organized arts and crafts, singing, sp",
-      "date_posted": "2026-04-10",
-      "salary": "$47,987 – $47,987",
-      "source": "Adzuna",
-      "j1_score": 56
-    },
-    {
-      "title": "Kid's Camp Couselor",
-      "company": "Life Time",
-      "location": "Orland Park, Cook County",
-      "url": "https://www.adzuna.com/details/5671952634?utm_medium=api&utm_source=7c00c798",
-      "description": "Position Summary The Kids Camp Counselor leads children through a variety of activities including rock climbing, swimming, weekly field trips, arts & crafts, gym games and more. They incorporate nutrition education with weekly-themed camps providing a high level of safety and fun for children from ages three to twelve years. Job Duties and Responsibilities Engages children in interactive activities including organized arts and crafts, singing, sp",
-      "date_posted": "2026-03-19",
-      "salary": "$42,687 – $42,687",
-      "source": "Adzuna",
-      "j1_score": 56
-    },
-    {
-      "title": "Camp Counselor",
-      "company": "Life Time",
-      "location": "Vernon Hills, Lake County",
-      "url": "https://www.adzuna.com/details/5679033588?utm_medium=api&utm_source=7c00c798",
-      "description": "Position Summary The Kids Camp Counselor leads children through a variety of activities including rock climbing, swimming, weekly field trips, arts & crafts, gym games and more. They incorporate nutrition education with weekly-themed camps providing a high level of safety and fun for children from ages three to twelve years. Job Duties and Responsibilities Engages children in interactive activities including organized arts and crafts, singing, sp",
-      "date_posted": "2026-03-26",
-      "salary": "$47,903 – $47,903",
-      "source": "Adzuna",
-      "j1_score": 56
-    },
-    {
-      "title": "Seasonal Substitute Camp Counselor - Chicago (Lincoln Park, IL)",
-      "company": "Bright Horizons Children's Centers",
-      "location": "Chicago, Cook County",
-      "url": "https://www.adzuna.com/details/5681864997?utm_medium=api&utm_source=7c00c798",
-      "description": "As a Seasonal Substitute Camp Counselor at Science Factory Camp , you play an important role in keeping camp days running smoothly and positively. In this on-call role, you step in as needed to supervise campers ages 6–12, support hands‑on activities using prepared plans, and help maintain a safe, engaging camp environment. Each shift gives you the chance to bring your own energy, creativity, and leadership to support campers and staff. If you ar",
-      "date_posted": "2026-03-28",
-      "salary": "$35,880 – $41,080",
-      "source": "Adzuna",
-      "j1_score": 53
-    },
-    {
-      "title": "Seasonal PE Lead Counselor - Chicago - (Lincoln Park, IL)",
-      "company": "Bright Horizons Children's Centers",
-      "location": "Chicago, Cook County",
-      "url": "https://www.adzuna.com/details/5682025241?utm_medium=api&utm_source=7c00c798",
-      "description": "As a Physical Education (P.E.) Lead Counselor at Science Factory Camp , you will support campers ages 6–12 through movement‑based, high‑energy activities designed to build teamwork, confidence, and fun. You will use prepared activity plans and bring them to life with your leadership, clear explanations, and the ability to keep kids motivated and included. You don’t need to be a professional athlete. What matters most is enthusiasm, confidence lea",
-      "date_posted": "2026-03-29",
-      "salary": "$36,920 – $41,080",
-      "source": "Adzuna",
-      "j1_score": 53
-    },
-    {
-      "title": "Seasonal Science Lead Counselor - Chicago - (Lincoln Park, IL)",
-      "company": "Bright Horizons Children's Centers",
-      "location": "Chicago, Cook County",
-      "url": "https://www.adzuna.com/details/5681872668?utm_medium=api&utm_source=7c00c798",
-      "description": "As a Science Lead Counselor at Science Factory Camp , you will guide campers ages 6–12 through hands‑on, curiosity‑driven experiments that spark wonder and those “whoa, that’s cool!” moments. You will use prepared activity plans, then bring them to life with energy, questions, storytelling, and strong group management that keeps kids engaged and included. You don’t need a formal science background, but a middle‑school level understanding (or abov",
-      "date_posted": "2026-03-28",
-      "salary": "$36,920 – $41,080",
-      "source": "Adzuna",
-      "j1_score": 49
-    },
-    {
-      "title": "Program Specialist - CPE",
-      "company": "Harper College",
-      "location": "Hoffman Estates, Cook County",
-      "url": "https://www.adzuna.com/details/5685113400?utm_medium=api&utm_source=7c00c798",
-      "description": "Description General Function: Prepares and manages CPE portfolio of courses and programs, scheduling of class sessions, including use of CurriCUNET and Banner. Assists program coordinators in the promotion of all CPE programs through email and phone inquiries, information sessions, community events, as well as through digital and traditional marketing venues. Responsibilities Characteristic Duties: Maintains day-to-day operations for a portfolio ",
-      "date_posted": "2026-04-01",
-      "salary": "$64,253 – $64,253",
-      "source": "Adzuna",
-      "j1_score": 40
     }
   ]
 }
