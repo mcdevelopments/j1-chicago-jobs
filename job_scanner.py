@@ -30,7 +30,7 @@ ADZUNA_BASE    = "https://api.adzuna.com/v1/api/jobs/us/search"
 
 LOCATION     = "lincoln park, chicago, il"
 LOCATION_LABEL = "Lincoln Park, Chicago, IL"
-RADIUS_MILES = 10
+RADIUS_MILES = 13
 SCAN_DATE    = date.today().isoformat()
 DAYS_BACK    = 30         # jobs posted in last N days
 RESULTS_PER_PAGE = 50
