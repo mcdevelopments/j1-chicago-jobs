@@ -28,9 +28,9 @@ ADZUNA_APP_ID  = os.environ.get("ADZUNA_APP_ID", "")
 ADZUNA_APP_KEY = os.environ.get("ADZUNA_APP_KEY", "")
 ADZUNA_BASE    = "https://api.adzuna.com/v1/api/jobs/us/search"
 
-LOCATION     = "chicago, il"
-LOCATION_LABEL = "Chicago, IL"
-RADIUS_MILES = 35
+LOCATION     = "lincoln park, chicago, il"
+LOCATION_LABEL = "Lincoln Park, Chicago, IL"
+RADIUS_MILES = 10
 SCAN_DATE    = date.today().isoformat()
 DAYS_BACK    = 30         # jobs posted in last N days
 RESULTS_PER_PAGE = 50
