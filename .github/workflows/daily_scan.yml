@@ -26,6 +26,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run job scanner
+        env:
+          ADZUNA_APP_ID:  ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python job_scanner.py
 
       - name: Commit and push results
