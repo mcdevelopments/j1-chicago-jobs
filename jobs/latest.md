@@ -1,6 +1,6 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** April 14, 2026  
+**Date:** April 15, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
 **Total listings:** 8  
 **Top J1 picks (score ≥ 65):** 8
@@ -83,18 +83,6 @@
 
 ---
 
-### Summer Camp Youngest Camper Counselor Lead - Chicago - Lincoln Park
-**Company:** Steve & Kate's Camp  
-**Location:** Sheffield Neighbors, Chicago  
-**Salary:** $40,560 – $45,760  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-03-21 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5673928204?utm_medium=api&utm_source=7c00c798)
-
-> Job Details Location : 1734 N Orleans St., Chicago, IL 60614 Camp Dates : 6/8/2026 (Mon) - 8/7/2026 (Fri) (additionally, one weekend to set up, one weekend to breakdown, and an orientation date) Camp Hours : 8:00 am - 6:00 pm (actual shifts will vary) Hourly Wage : The hourly rate for this position is $19.50 - $22.00 per hour. The pay range listed here is what Steve & Kate's Camp in good faith anticipates offering for this job opening. Actual com
-
----
-
 ### Student Summer Researcher
 **Company:** Rush University Medical Center  
 **Location:** Illinois Medical District, Chicago  
@@ -104,6 +92,18 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5677434873?utm_medium=api&utm_source=7c00c798)
 
 > Job Description Location: Chicago, Illinois Business Unit: Rush Medical Center Hospital: Rush University Medical Center Department: RMC Medical Student Progs-RMC Work Type: Full Time (Total FTE between 0.9 and 1.0) Shift: Shift 1 Work Schedule: 8 Hr (8:00:00 AM - 4:30:00 PM) Rush offers exceptional rewards and benefits learn more at our Rush benefits page (https://www.rush.edu/rush-careers/employee-benefits). Pay Range: $17.50-23.00 per hour Rush
+
+---
+
+### Associate Recruiting Manager – Entry Level Hiring
+**Company:** Latham & Watkins LLP  
+**Location:** Magnificent Mile, Chicago  
+**Salary:** $150,000 – $175,000  
+**J1 Score:** 🟡 56/100  
+**Posted:** 2026-04-15 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5700192663?utm_medium=api&utm_source=7c00c798)
+
+> Latham & Watkins is one of the world’s leading global law firms advising the businesses and institutions that drive the global economy. We are the market leaders in major financial and business centers around the world. Our investment in people, commitment to innovation, and focus on the future empower you to build an incredible career and thrive as an exceptional professional in a supportive culture. If you aspire to be the best, and work with t
 
 ---
 
