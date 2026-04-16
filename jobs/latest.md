@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** April 15, 2026  
+**Date:** April 16, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 8  
-**Top J1 picks (score ≥ 65):** 8
+**Total listings:** 11  
+**Top J1 picks (score ≥ 65):** 11
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -20,6 +20,18 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5695280312?utm_medium=api&utm_source=7c00c798)
 
 > Summary: The Old Town School of Folk Music is seeking passionate, creative, fun and responsible day camp counselors to supervise, lead, and plan engaging activities for 6-11 year olds while ensuring a safe and inclusive environment for campers to thrive. Counselors will be required to attend several paid training days in June and must commit to the entire duration of the camp. Location : Lincoln Square Duties: Responsible for oversight and safety
+
+---
+
+### Camp Counselor - Youth Summer Basketball Camp
+**Company:** Park District Of Oak Park  
+**Location:** Oak Park, Cook County  
+**Salary:** From $31,200  
+**J1 Score:** 🟢 82/100  
+**Posted:** 2026-04-16 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5701021645?utm_medium=api&utm_source=7c00c798)
+
+> Description Overview: The Camp Counselor is a seasonal position. We offer competitive compensation, and PTO for seasonal employees. Job Purpose: The Camp Counselor leads and acts as a role model to a group of campers in a variety of activities including sports, competitive and non-competitive games, songs, crafts, swimming, and field trips. Counselors develop and engage campers in activities while enforcing Park District rules and ensuring the sa
 
 ---
 
@@ -92,6 +104,28 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5677434873?utm_medium=api&utm_source=7c00c798)
 
 > Job Description Location: Chicago, Illinois Business Unit: Rush Medical Center Hospital: Rush University Medical Center Department: RMC Medical Student Progs-RMC Work Type: Full Time (Total FTE between 0.9 and 1.0) Shift: Shift 1 Work Schedule: 8 Hr (8:00:00 AM - 4:30:00 PM) Rush offers exceptional rewards and benefits learn more at our Rush benefits page (https://www.rush.edu/rush-careers/employee-benefits). Pay Range: $17.50-23.00 per hour Rush
+
+---
+
+### Camp Counselor - Avondale
+**Company:** First Ascent Llc  
+**Location:** Avondale, Chicago  
+**J1 Score:** 🟡 56/100  
+**Posted:** 2026-04-16 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5701096609?utm_medium=api&utm_source=7c00c798)
+
+> First Ascent Climbing & Fitness is on a mission to share our love of climbing with everyone, connect people through movement, and create welcoming, uplifting spaces that strengthen minds, bodies, and communities. We are looking for Summer Camp Counselors for our Avondale location who are proactive, friendly, and enthusiastic individuals eager to grow with us. In this role, you’ll help us continually improve what we do as we learn how to better se
+
+---
+
+### Camp Counselor - West Loop
+**Company:** First Ascent Llc  
+**Location:** Greektown, Chicago  
+**J1 Score:** 🟡 56/100  
+**Posted:** 2026-04-15 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5700977922?utm_medium=api&utm_source=7c00c798)
+
+> First Ascent Climbing & Fitness is on a mission to share our love of climbing with everyone, connect people through movement, and create welcoming, uplifting spaces that strengthen minds, bodies, and communities. We are looking for Summer Camp Counselors for our West Loop location who are proactive, friendly, and enthusiastic individuals eager to grow with us. In this role, you’ll help us continually improve what we do as we learn how to better s
 
 ---
 
