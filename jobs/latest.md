@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** April 22, 2026  
+**Date:** April 23, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 12  
-**Top J1 picks (score ≥ 65):** 12
+**Total listings:** 13  
+**Top J1 picks (score ≥ 65):** 13
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -104,6 +104,18 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5687367075?utm_medium=api&utm_source=7c00c798)
 
 > Viceroy Hotels & Resorts offers a fresh take on hospitality, centered on the richness of experiences and cultural connection. A leader in modern luxury, Viceroy is committed to creating unique, immersive experiences that allow guests to craft unforgettable narratives rooted in the authenticity of each destination. Viceroy’s portfolio of hotels and resorts can be found in a diverse array of breathtaking and inspiring locations including Los Cabos,
+
+---
+
+### Summer Arts Program Coordinator – Multi-Arts Camp (Ages 6–9)
+**Company:** Art Institute of Chicago  
+**Location:** K-Town, Chicago  
+**Salary:** $74,126 – $74,126  
+**J1 Score:** 🟡 66/100  
+**Posted:** 2026-04-23 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5708055365?utm_medium=api&utm_source=7c00c798)
+
+> For more than 150 years, the School of the Art Institute of Chicago (SAIC) has been a leader in educating the world’s most influential artists, designers and scholars. Located in downtown Chicago with a fine arts graduate program consistently ranking among the top four graduate fine arts programs in the nation by U.S. News and World Report, SAIC provides an interdisciplinary approach to art and design as well as world-class resources, including t
 
 ---
 
