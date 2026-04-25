@@ -1,15 +1,27 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** April 24, 2026  
+**Date:** April 25, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 13  
-**Top J1 picks (score ≥ 65):** 13
+**Total listings:** 14  
+**Top J1 picks (score ≥ 65):** 14
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
 ---
 
 ## ⭐ Top J1-Recommended Listings
+
+### Summer Camp Counselor (Seasonal)
+**Company:** Old Town School Of Folk Music  
+**Location:** Ashburn Estates, Chicago  
+**Salary:** $46,236 – $46,236  
+**J1 Score:** 🟢 86/100  
+**Posted:** 2026-04-10 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5695280312?utm_medium=api&utm_source=7c00c798)
+
+> Summary: The Old Town School of Folk Music is seeking passionate, creative, fun and responsible day camp counselors to supervise, lead, and plan engaging activities for 6-11 year olds while ensuring a safe and inclusive environment for campers to thrive. Counselors will be required to attend several paid training days in June and must commit to the entire duration of the camp. Location : Lincoln Square Duties: Responsible for oversight and safety
+
+---
 
 ### Camp Counselor - Youth Summer Basketball Camp
 **Company:** Park District Of Oak Park  
