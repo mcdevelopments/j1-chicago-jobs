@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** April 27, 2026  
+**Date:** April 28, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 14  
-**Top J1 picks (score ≥ 65):** 14
+**Total listings:** 11  
+**Top J1 picks (score ≥ 65):** 11
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -47,18 +47,6 @@
 
 ---
 
-### Camp Counselor (Seasonal - Summer)
-**Company:** Saddle & Cycle Club  
-**Location:** Andersonville, Chicago  
-**Salary:** $37,440 – $52,000  
-**J1 Score:** 🟡 79/100  
-**Posted:** 2026-03-28 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5681181393?utm_medium=api&utm_source=7c00c798)
-
-> Job Title: Camp Counselor (Seasonal - Summer) Department: Youth Activities Reports to: Camp Director FLSA: Hourly, Non-Exempt General Summary: The Camp Counselor is responsible for leading recreational and educational activities, and supervising young campers at all times. Essential Functions: · Plan outdoor activities or sports for groups of campers · Create weekly or daily schedules taking into account children’s age groups and interests · Lead
-
----
-
 ### Summer Camp Counselor
 **Company:** Life Time  
 **Location:** North Austin, Chicago  
@@ -68,18 +56,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5703457471?utm_medium=api&utm_source=7c00c798)
 
 > Position Summary The Kids Camp Counselor leads children through a variety of activities including rock climbing, swimming, weekly field trips, arts & crafts, gym games and more. They incorporate nutrition education with weekly-themed camps providing a high level of safety and fun for children from ages three to twelve years. Job Duties and Responsibilities Engages children in interactive activities including organized arts and crafts, singing, sp
-
----
-
-### Summer Aquatics Day Camp Counselor
-**Company:** YMCA of Metropolitan Chicago  
-**Location:** Schiller Park, Cook County  
-**Salary:** $31,108 – $31,108  
-**J1 Score:** 🟡 78/100  
-**Posted:** 2026-04-23 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5708121543?utm_medium=api&utm_source=7c00c798)
-
-> The Summer Aquatics Camp Counselor serves as a professional role model for our campers by leading through example and guiding campers through recreational activities that teach life skills, encourage healthy and safe behaviors and create a positive camper experience. The Summer Aquatics Camp Counselor ensures that each youth has adequate supervision including ensuring that no youth is unsupervised at any time. Pay starts at $17.90 per hour, Monda
 
 ---
 
@@ -97,11 +73,11 @@
 
 ### Summer Day Camp Counselor
 **Company:** KE Camps  
-**Location:** Park Ridge, Cook County  
-**Salary:** $27,836 – $27,836  
+**Location:** River Grove, Cook County  
+**Salary:** $26,393 – $26,393  
 **J1 Score:** 🟡 74/100  
 **Posted:** 2026-04-27 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5711441734?se=EAzxoWFC8RGUJvt2BbOskg&utm_medium=api&utm_source=7c00c798&v=7AE6447A3BF79A3CED3127DC6B10233A7C7A535C)
+**Apply:** [View listing](https://www.adzuna.com/land/ad/5712370599?se=PLN5fi1D8RG6FsWBHuuDfA&utm_medium=api&utm_source=7c00c798&v=95AED0FCBBE2AC5255296DEA99C84E6764A42FEF)
 
 > Job Description Job Description KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Cam
 
@@ -150,18 +126,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5700977922?utm_medium=api&utm_source=7c00c798)
 
 > First Ascent Climbing & Fitness is on a mission to share our love of climbing with everyone, connect people through movement, and create welcoming, uplifting spaces that strengthen minds, bodies, and communities. We are looking for Summer Camp Counselors for our West Loop location who are proactive, friendly, and enthusiastic individuals eager to grow with us. In this role, you’ll help us continually improve what we do as we learn how to better s
-
----
-
-### Camp Counselor - Avondale
-**Company:** First Ascent Climbing and Fitness  
-**Location:** Schiller Park, Cook County  
-**Salary:** $64,272 – $64,272  
-**J1 Score:** 🟡 56/100  
-**Posted:** 2026-04-23 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5708174103?utm_medium=api&utm_source=7c00c798)
-
-> First Ascent Climbing & Fitness is on a mission to share our love of climbing with everyone, connect people through movement, and create welcoming, uplifting spaces that strengthen minds, bodies, and communities. We are looking for Summer Camp Counselors for our Avondale location who are proactive, friendly, and enthusiastic individuals eager to grow with us. In this role, you'll help us continually improve what we do as we learn how to better se
 
 ---
 
