@@ -1,15 +1,27 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** April 28, 2026  
+**Date:** April 29, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 11  
-**Top J1 picks (score ≥ 65):** 11
+**Total listings:** 12  
+**Top J1 picks (score ≥ 65):** 12
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
 ---
 
 ## ⭐ Top J1-Recommended Listings
+
+### Camp Counselor-Summer Ice Skating (Part-Time/Seasonal)
+**Company:** Niles Park District  
+**Location:** Niles, Cook County  
+**Salary:** $51,742 – $51,742  
+**J1 Score:** 🟢 98/100  
+**Posted:** 2026-04-29 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/land/ad/5713721839?se=8CPkvPVD8RG1VI_LJuiSNQ&utm_medium=api&utm_source=7c00c798&v=E2740F23312B8AB03898A5870CB27B2C6D33BE26)
+
+> Job Description Job Description Description: The Niles Park District is seeking energetic and reliable Summer Skating Camp Counselors to join our IceLand team! This seasonal position is perfect for individuals who enjoy working with children and have a passion for skating and summer fun. Our Summer Skating Camp runs June 15 through August 8, with camp sessions held Mondays, Wednesdays, and Fridays from 9:00 a.m. to 4:00 p.m. Opportunities for add
+
+---
 
 ### Camp Counselor - Youth Summer Basketball Camp
 **Company:** Park District Of Oak Park  
@@ -71,15 +83,15 @@
 
 ---
 
-### Summer Day Camp Counselor
-**Company:** KE Camps  
-**Location:** River Grove, Cook County  
-**Salary:** $26,393 – $26,393  
+### Program Leader - Summer Camp - 2026
+**Company:** Kenilworth Park District  
+**Location:** Kenilworth, Cook County  
+**Salary:** $37,440 – $41,600  
 **J1 Score:** 🟡 74/100  
-**Posted:** 2026-04-27 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5712370599?se=PLN5fi1D8RG6FsWBHuuDfA&utm_medium=api&utm_source=7c00c798&v=95AED0FCBBE2AC5255296DEA99C84E6764A42FEF)
+**Posted:** 2026-04-29 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5713392561?utm_medium=api&utm_source=7c00c798)
 
-> Job Description Job Description KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Cam
+> Program Leader - Summer Camp Part-Time/Seasonal Kenilworth Park District Summer Camp Pay Range: $18 - 20/Hour based on qualifications. The Kenilworth Park District is looking to build a team of summer camp staff with professional, knowledgeable program leaders. This is your chance to be a part of a great summer camp program with an emphasis on fun! We are looking for individuals who truly love children. If that sounds like you, keep reading! Teac
 
 ---
 
