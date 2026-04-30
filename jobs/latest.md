@@ -1,27 +1,15 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** April 29, 2026  
+**Date:** April 30, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 12  
-**Top J1 picks (score ≥ 65):** 12
+**Total listings:** 11  
+**Top J1 picks (score ≥ 65):** 11
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
 ---
 
 ## ⭐ Top J1-Recommended Listings
-
-### Camp Counselor-Summer Ice Skating (Part-Time/Seasonal)
-**Company:** Niles Park District  
-**Location:** Niles, Cook County  
-**Salary:** $51,742 – $51,742  
-**J1 Score:** 🟢 98/100  
-**Posted:** 2026-04-29 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5713721839?se=8CPkvPVD8RG1VI_LJuiSNQ&utm_medium=api&utm_source=7c00c798&v=E2740F23312B8AB03898A5870CB27B2C6D33BE26)
-
-> Job Description Job Description Description: The Niles Park District is seeking energetic and reliable Summer Skating Camp Counselors to join our IceLand team! This seasonal position is perfect for individuals who enjoy working with children and have a passion for skating and summer fun. Our Summer Skating Camp runs June 15 through August 8, with camp sessions held Mondays, Wednesdays, and Fridays from 9:00 a.m. to 4:00 p.m. Opportunities for add
-
----
 
 ### Camp Counselor - Youth Summer Basketball Camp
 **Company:** Park District Of Oak Park  
