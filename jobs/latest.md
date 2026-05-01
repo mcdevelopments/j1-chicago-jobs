@@ -1,15 +1,27 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** April 30, 2026  
+**Date:** May 01, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 11  
-**Top J1 picks (score ≥ 65):** 11
+**Total listings:** 13  
+**Top J1 picks (score ≥ 65):** 13
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
 ---
 
 ## ⭐ Top J1-Recommended Listings
+
+### Summer Day Camp Counselor-Intern
+**Company:** KE Camps  
+**Location:** Park Ridge, Cook County  
+**Salary:** $27,822 – $27,822  
+**J1 Score:** 🟢 84/100  
+**Posted:** 2026-05-01 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/land/ad/5716019421?se=rgcP5HhF8RGazqAjURePLw&utm_medium=api&utm_source=7c00c798&v=086A801902B22CBF012853DA1F127AD7A08DE1AE)
+
+> Job Description Job Description KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! Our Camp
+
+---
 
 ### Camp Counselor - Youth Summer Basketball Camp
 **Company:** Park District Of Oak Park  
@@ -68,6 +80,18 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5687367075?utm_medium=api&utm_source=7c00c798)
 
 > Viceroy Hotels & Resorts offers a fresh take on hospitality, centered on the richness of experiences and cultural connection. A leader in modern luxury, Viceroy is committed to creating unique, immersive experiences that allow guests to craft unforgettable narratives rooted in the authenticity of each destination. Viceroy’s portfolio of hotels and resorts can be found in a diverse array of breathtaking and inspiring locations including Los Cabos,
+
+---
+
+### Summer Day Camp Counselor
+**Company:** KE Camps  
+**Location:** Park Ridge, Cook County  
+**Salary:** $27,836 – $27,836  
+**J1 Score:** 🟡 74/100  
+**Posted:** 2026-04-27 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/land/ad/5711441734?se=rgcP5HhF8RGazqAjURePLw&utm_medium=api&utm_source=7c00c798&v=7AE6447A3BF79A3CED3127DC6B10233A7C7A535C)
+
+> Job Description Job Description KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Cam
 
 ---
 
