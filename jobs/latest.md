@@ -1,6 +1,6 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** May 06, 2026  
+**Date:** May 07, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
 **Total listings:** 7  
 **Top J1 picks (score ≥ 65):** 7
@@ -59,6 +59,18 @@
 
 ---
 
+### Building Automation Systems Specialist Internship
+**Company:** Siemens  
+**Location:** Illinois Medical District, Chicago  
+**Salary:** $48,429 – $48,429  
+**J1 Score:** 🟡 58/100  
+**Posted:** 2026-05-06 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5720995488?utm_medium=api&utm_source=7c00c798)
+
+> Job Family: Buildings Req ID: 504955 Smart Buildings Specialist Internship Part-time Summer Internship Opportunity with Chicago Public Schools Here at Siemens, we take pride in enabling sustainable progress through technology. We do this through empowering customers by combining the real and digital worlds. Improving how we live, work, and move today and for the next generation! We know that the only way a business thrive is if our people are thr
+
+---
+
 ### Camp Counselor - Avondale
 **Company:** First Ascent Llc  
 **Location:** Avondale, Chicago  
@@ -67,17 +79,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5701096609?utm_medium=api&utm_source=7c00c798)
 
 > First Ascent Climbing & Fitness is on a mission to share our love of climbing with everyone, connect people through movement, and create welcoming, uplifting spaces that strengthen minds, bodies, and communities. We are looking for Summer Camp Counselors for our Avondale location who are proactive, friendly, and enthusiastic individuals eager to grow with us. In this role, you’ll help us continually improve what we do as we learn how to better se
-
----
-
-### Camp Counselor - West Loop
-**Company:** First Ascent Llc  
-**Location:** Greektown, Chicago  
-**J1 Score:** 🟡 56/100  
-**Posted:** 2026-04-15 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5700977922?utm_medium=api&utm_source=7c00c798)
-
-> First Ascent Climbing & Fitness is on a mission to share our love of climbing with everyone, connect people through movement, and create welcoming, uplifting spaces that strengthen minds, bodies, and communities. We are looking for Summer Camp Counselors for our West Loop location who are proactive, friendly, and enthusiastic individuals eager to grow with us. In this role, you’ll help us continually improve what we do as we learn how to better s
 
 ---
 
