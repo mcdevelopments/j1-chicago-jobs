@@ -1,6 +1,6 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** May 07, 2026  
+**Date:** May 08, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
 **Total listings:** 7  
 **Top J1 picks (score ≥ 65):** 7
