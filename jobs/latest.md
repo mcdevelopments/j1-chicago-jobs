@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** May 09, 2026  
+**Date:** May 10, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 8  
-**Top J1 picks (score ≥ 65):** 8
+**Total listings:** 6  
+**Top J1 picks (score ≥ 65):** 6
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -59,18 +59,6 @@
 
 ---
 
-### Summer Arts Program Coordinator – Multi-Arts Camp (Ages 6–9)
-**Company:** Art Institute of Chicago  
-**Location:** K-Town, Chicago  
-**Salary:** $74,126 – $74,126  
-**J1 Score:** 🟡 66/100  
-**Posted:** 2026-04-23 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5708055365?utm_medium=api&utm_source=7c00c798)
-
-> For more than 150 years, the School of the Art Institute of Chicago (SAIC) has been a leader in educating the world’s most influential artists, designers and scholars. Located in downtown Chicago with a fine arts graduate program consistently ranking among the top four graduate fine arts programs in the nation by U.S. News and World Report, SAIC provides an interdisciplinary approach to art and design as well as world-class resources, including t
-
----
-
 ### Building Automation Systems Specialist Internship
 **Company:** Siemens  
 **Location:** Illinois Medical District, Chicago  
@@ -80,17 +68,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5720995488?utm_medium=api&utm_source=7c00c798)
 
 > Job Family: Buildings Req ID: 504955 Smart Buildings Specialist Internship Part-time Summer Internship Opportunity with Chicago Public Schools Here at Siemens, we take pride in enabling sustainable progress through technology. We do this through empowering customers by combining the real and digital worlds. Improving how we live, work, and move today and for the next generation! We know that the only way a business thrive is if our people are thr
-
----
-
-### Camp Counselor - Avondale
-**Company:** First Ascent Llc  
-**Location:** Avondale, Chicago  
-**J1 Score:** 🟡 56/100  
-**Posted:** 2026-04-16 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5701096609?utm_medium=api&utm_source=7c00c798)
-
-> First Ascent Climbing & Fitness is on a mission to share our love of climbing with everyone, connect people through movement, and create welcoming, uplifting spaces that strengthen minds, bodies, and communities. We are looking for Summer Camp Counselors for our Avondale location who are proactive, friendly, and enthusiastic individuals eager to grow with us. In this role, you’ll help us continually improve what we do as we learn how to better se
 
 ---
 
