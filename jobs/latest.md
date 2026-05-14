@@ -1,6 +1,6 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** May 13, 2026  
+**Date:** May 14, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
 **Total listings:** 6  
 **Top J1 picks (score ≥ 65):** 6
@@ -62,12 +62,12 @@
 ### Building Automation Systems Specialist Internship
 **Company:** Siemens  
 **Location:** Illinois Medical District, Chicago  
-**Salary:** $48,429 – $48,429  
-**J1 Score:** 🟡 58/100  
+**Salary:** $49,990 – $49,990  
+**J1 Score:** 🟡 62/100  
 **Posted:** 2026-05-06 | **Source:** Adzuna  
 **Apply:** [View listing](https://www.adzuna.com/details/5720995488?utm_medium=api&utm_source=7c00c798)
 
-> Job Family: Buildings Req ID: 504955 Smart Buildings Specialist Internship Part-time Summer Internship Opportunity with Chicago Public Schools Here at Siemens, we take pride in enabling sustainable progress through technology. We do this through empowering customers by combining the real and digital worlds. Improving how we live, work, and move today and for the next generation! We know that the only way a business thrive is if our people are thr
+> Job Family: Buildings Req ID: 504955 Smart Buildings Specialist Internship Part-time Summer Internship Opportunity with Chicago Public Schools This paid summer internship is part of our Chicago talent pipeline and is intended for students enrolled in CPS high schools or Chicago-area colleges, as well as recent CPS graduates continuing their education. Here at Siemens, we take pride in enabling sustainable progress through technology. We do this t
 
 ---
 
