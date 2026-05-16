@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** May 15, 2026  
+**Date:** May 16, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 6  
-**Top J1 picks (score ≥ 65):** 6
+**Total listings:** 8  
+**Top J1 picks (score ≥ 65):** 8
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -32,6 +32,30 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5703457471?utm_medium=api&utm_source=7c00c798)
 
 > Position Summary The Kids Camp Counselor leads children through a variety of activities including rock climbing, swimming, weekly field trips, arts & crafts, gym games and more. They incorporate nutrition education with weekly-themed camps providing a high level of safety and fun for children from ages three to twelve years. Job Duties and Responsibilities Engages children in interactive activities including organized arts and crafts, singing, sp
+
+---
+
+### Summer Camp Counselor - Chicago - Lakeview
+**Company:** Steve & Kate's Camp  
+**Location:** Lake View, Chicago  
+**Salary:** $26,739 – $26,739  
+**J1 Score:** 🟡 74/100  
+**Posted:** 2026-05-15 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5730576813?utm_medium=api&utm_source=7c00c798)
+
+> Job Details Location : 3500 N Hoyne Ave, Chicago, IL 60618 Camp Dates : 6/8/2026 (Mon) - 8/7/2026 (Fri) (additionally, one weekend to set up, one weekend to breakdown, and an orientation date) Hourly Wage : The hourly rate for this position is $17.25 - $19.75 per hour. The pay range listed here is what Steve & Kate's Camp in good faith anticipates offering for this job opening. Actual compensation offers within this range will depend on experienc
+
+---
+
+### Summer Camp Substitute Counselor - Chicago - Lakeview
+**Company:** Steve & Kate's Camp  
+**Location:** Lake View, Chicago  
+**Salary:** $26,119 – $26,119  
+**J1 Score:** 🟡 74/100  
+**Posted:** 2026-05-15 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5730576943?utm_medium=api&utm_source=7c00c798)
+
+> Job Details Location : 3500 N Hoyne Ave, Chicago, IL 60618 Camp Dates : 6/8/2026 (Mon) - 8/7/2026 (Fri) (additionally, one weekend to set up, one weekend to breakdown, and an orientation date) Camp Hours : 8:00 am - 6:00 pm (actual shifts will vary) Hourly Wage : The hourly rate for this position is $17.25 - $19.75 per hour. The pay range listed here is what Steve & Kate's Camp in good faith anticipates offering for this job opening. Actual compe
 
 ---
 
