@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** May 18, 2026  
+**Date:** May 19, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 12  
-**Top J1 picks (score ≥ 65):** 12
+**Total listings:** 10  
+**Top J1 picks (score ≥ 65):** 10
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -20,18 +20,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5723227918?utm_medium=api&utm_source=7c00c798)
 
 > Eyas Landing, a leading therapeutic clinic in Chicago, IL is seeking a skilled and compassionate Part-Time Occupational Therapist (OT) to join our multidisciplinary team of top therapists while facilitating our therapeutic Summer Camp during the month of July, 2026 . This is an opportunity to provide evidence-based, play-focused pediatric therapy in a collaborative, innovative environment designed to help children thrive. Apply today at threebird
-
----
-
-### Summer Camp Counselor
-**Company:** Life Time  
-**Location:** North Austin, Chicago  
-**Salary:** $53,243 – $53,243  
-**J1 Score:** 🟡 78/100  
-**Posted:** 2026-04-18 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5703457471?utm_medium=api&utm_source=7c00c798)
-
-> Position Summary The Kids Camp Counselor leads children through a variety of activities including rock climbing, swimming, weekly field trips, arts & crafts, gym games and more. They incorporate nutrition education with weekly-themed camps providing a high level of safety and fun for children from ages three to twelve years. Job Duties and Responsibilities Engages children in interactive activities including organized arts and crafts, singing, sp
 
 ---
 
@@ -140,18 +128,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5720995488?utm_medium=api&utm_source=7c00c798)
 
 > Job Family: Buildings Req ID: 504955 Smart Buildings Specialist Internship Part-time Summer Internship Opportunity with Chicago Public Schools This paid summer internship is part of our Chicago talent pipeline and is intended for students enrolled in CPS high schools, as well as recent CPS graduates continuing their education. Here at Siemens, we take pride in enabling sustainable progress through technology. We do this through empowering custome
-
----
-
-### Associate Recruiting Manager
-**Company:** Latham & Watkins LLP  
-**Location:** Magnificent Mile, Chicago  
-**Salary:** $150,000 – $175,000  
-**J1 Score:** 🟡 52/100  
-**Posted:** 2026-04-18 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5703674260?utm_medium=api&utm_source=7c00c798)
-
-> Latham & Watkins is one of the world’s leading global law firms advising the businesses and institutions that drive the global economy. We are the market leaders in major financial and business centers around the world. Our investment in people, commitment to innovation, and focus on the future empower you to build an incredible career and thrive as an exceptional professional in a supportive culture. If you aspire to be the best, and work with t
 
 ---
 
