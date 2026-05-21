@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** May 20, 2026  
+**Date:** May 21, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 8  
-**Top J1 picks (score ≥ 65):** 8
+**Total listings:** 6  
+**Top J1 picks (score ≥ 65):** 6
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -23,25 +23,13 @@
 
 ---
 
-### Summer Camp Counselor - Chicago - Lakeview
-**Company:** Steve & Kate's Camp  
-**Location:** Avondale, Chicago  
-**Salary:** $35,880 – $41,080  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-05-16 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5732115213?utm_medium=api&utm_source=7c00c798)
-
-> Job Details Location : 3500 N Hoyne Ave, Chicago, IL 60618 Camp Dates : 6/8/2026 (Mon) - 8/7/2026 (Fri) (additionally, one weekend to set up, one weekend to breakdown, and an orientation date) Hourly Wage : The hourly rate for this position is $17.25 - $19.75 per hour. The pay range listed here is what Steve & Kate's Camp in good faith anticipates offering for this job opening. Actual compensation offers within this range will depend on experienc
-
----
-
 ### Summer Day Camp Counselor
 **Company:** KE Camps  
 **Location:** Park Ridge, Cook County  
 **Salary:** $33,395 – $33,395  
 **J1 Score:** 🟡 74/100  
 **Posted:** 2026-05-17 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5732310773?utm_medium=api&utm_source=7c00c798)
+**Apply:** [View listing](https://www.adzuna.com/land/ad/5732310773?se=YPGAUDBV8RGwQbR7IXjSqw&utm_medium=api&utm_source=7c00c798&v=1E49EC3D8E9D66E596FE58182E4E6372567A8A4E)
 
 > KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Camp Counselor , you will be an act
 
@@ -56,18 +44,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5732194436?utm_medium=api&utm_source=7c00c798)
 
 > Job Details Location : 1574 Sherman Ave., Evanston, IL 60201 Camp Dates : 6/15/2026 (Mon) - 8/7/2026 (Fri) - (additionally, one weekend to set up, one weekend to breakdown, and an orientation date) Camp Hours : 8:00 am - 6:00 pm (actual shifts will vary) Hourly Wage : The hourly rate for this position is $15.50 - $18.00 per hour. The pay range listed here is what Steve & Kate's Camp in good faith anticipates offering for this job opening. Actual 
-
----
-
-### Summer Camp Substitute Counselor - Chicago - Lakeview
-**Company:** Steve & Kate's Camp  
-**Location:** Avondale, Chicago  
-**Salary:** $35,880 – $41,080  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-05-17 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5732255483?utm_medium=api&utm_source=7c00c798)
-
-> Job Details Location : 3500 N Hoyne Ave, Chicago, IL 60618 Camp Dates : 6/8/2026 (Mon) - 8/7/2026 (Fri) (additionally, one weekend to set up, one weekend to breakdown, and an orientation date) Camp Hours : 8:00 am - 6:00 pm (actual shifts will vary) Hourly Wage : The hourly rate for this position is $17.25 - $19.75 per hour. The pay range listed here is what Steve & Kate's Camp in good faith anticipates offering for this job opening. Actual compe
 
 ---
 
