@@ -1,6 +1,6 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** May 22, 2026  
+**Date:** May 23, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
 **Total listings:** 6  
 **Top J1 picks (score ≥ 65):** 6
@@ -29,7 +29,7 @@
 **Salary:** $33,395 – $33,395  
 **J1 Score:** 🟡 74/100  
 **Posted:** 2026-05-17 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5732310773?se=rMU2lvVV8RGIv9OxO3WU_g&utm_medium=api&utm_source=7c00c798&v=1E49EC3D8E9D66E596FE58182E4E6372567A8A4E)
+**Apply:** [View listing](https://www.adzuna.com/land/ad/5732310773?se=lNfXtLNW8RGWQvEe2bTbLw&utm_medium=api&utm_source=7c00c798&v=1E49EC3D8E9D66E596FE58182E4E6372567A8A4E)
 
 > KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Camp Counselor , you will be an act
 
