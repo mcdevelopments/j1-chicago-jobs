@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** May 27, 2026  
+**Date:** May 28, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 4  
-**Top J1 picks (score ≥ 65):** 4
+**Total listings:** 3  
+**Top J1 picks (score ≥ 65):** 3
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -20,18 +20,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5723227918?utm_medium=api&utm_source=7c00c798)
 
 > Eyas Landing, a leading therapeutic clinic in Chicago, IL is seeking a skilled and compassionate Part-Time Occupational Therapist (OT) to join our multidisciplinary team of top therapists while facilitating our therapeutic Summer Camp during the month of July, 2026 . This is an opportunity to provide evidence-based, play-focused pediatric therapy in a collaborative, innovative environment designed to help children thrive. Apply today at threebird
-
----
-
-### Summer Day Camp Counselor
-**Company:** KE Camps  
-**Location:** Park Ridge, Cook County  
-**Salary:** $33,395 – $33,395  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-05-17 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5732310773?se=ALPEUOpZ8RGs3Me5X3pAAw&utm_medium=api&utm_source=7c00c798&v=1E49EC3D8E9D66E596FE58182E4E6372567A8A4E)
-
-> KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Camp Counselor , you will be an act
 
 ---
 
