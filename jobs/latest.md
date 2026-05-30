@@ -1,6 +1,6 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** May 29, 2026  
+**Date:** May 30, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
 **Total listings:** 3  
 **Top J1 picks (score ≥ 65):** 3
@@ -35,15 +35,15 @@
 
 ---
 
-### Program Leader - Summer Camp - 2026
-**Company:** Kenilworth Park District  
-**Location:** Kenilworth, Cook County  
-**Salary:** $37,440 – $41,600  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-04-29 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5713392561?utm_medium=api&utm_source=7c00c798)
+### Summer Day Camp Counselor - New Field Elementary / Peterson Elementary
+**Company:** YMCA  
+**Location:** Graceland, Cook County  
+**Salary:** $31,491 – $31,491  
+**J1 Score:** 🟡 70/100  
+**Posted:** 2026-05-29 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5745172037?utm_medium=api&utm_source=7c00c798)
 
-> Program Leader - Summer Camp Part-Time/Seasonal Kenilworth Park District Summer Camp Pay Range: $18 - 20/Hour based on qualifications. The Kenilworth Park District is looking to build a team of summer camp staff with professional, knowledgeable program leaders. This is your chance to be a part of a great summer camp program with an emphasis on fun! We are looking for individuals who truly love children. If that sounds like you, keep reading! Teac
+> The YMCA is hiring Summer Day Camp Counselors for Summer 2026 for offsite programming at New Field Elementary School and Peterson Elementary School! At the Y, we create an exciting, safe camp environment for kids and staff to have an unforgettable summer. While campers are taking part in in unique experiences and adventures, our Summer Day Camp Counselors are developing leadership skills and confidence while making lasting friendships and memorie
 
 ---
 
