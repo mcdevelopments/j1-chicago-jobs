@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 03, 2026  
+**Date:** June 04, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 3  
-**Top J1 picks (score ≥ 65):** 3
+**Total listings:** 4  
+**Top J1 picks (score ≥ 65):** 4
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -32,6 +32,18 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5732194436?utm_medium=api&utm_source=7c00c798)
 
 > Job Details Location : 1574 Sherman Ave., Evanston, IL 60201 Camp Dates : 6/15/2026 (Mon) - 8/7/2026 (Fri) - (additionally, one weekend to set up, one weekend to breakdown, and an orientation date) Camp Hours : 8:00 am - 6:00 pm (actual shifts will vary) Hourly Wage : The hourly rate for this position is $15.50 - $18.00 per hour. The pay range listed here is what Steve & Kate's Camp in good faith anticipates offering for this job opening. Actual 
+
+---
+
+### SEASONAL Sales Associate
+**Company:** Little Green Apple  
+**Location:** Park Ridge, Cook County  
+**Salary:** $37,520 – $37,520  
+**J1 Score:** 🟡 72/100  
+**Posted:** 2026-06-03 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5751512206?utm_medium=api&utm_source=7c00c798)
+
+> We are looking for Seasonal Summer sales associates who are enthusiastic, energetic, friendly, and hard-working! The Seasonal Summer Sales Associate is responsible for providing exemplary selling and customer service that is designed to improve the productivity and profitability of the store. The Seasonal Sales Associate provides the customer with product recommendations and solutions by working proactively with them and serves as a role model of
 
 ---
 
