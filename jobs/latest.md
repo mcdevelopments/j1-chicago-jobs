@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 04, 2026  
+**Date:** June 05, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 4  
-**Top J1 picks (score ≥ 65):** 4
+**Total listings:** 5  
+**Top J1 picks (score ≥ 65):** 5
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -44,6 +44,18 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5751512206?utm_medium=api&utm_source=7c00c798)
 
 > We are looking for Seasonal Summer sales associates who are enthusiastic, energetic, friendly, and hard-working! The Seasonal Summer Sales Associate is responsible for providing exemplary selling and customer service that is designed to improve the productivity and profitability of the store. The Seasonal Sales Associate provides the customer with product recommendations and solutions by working proactively with them and serves as a role model of
+
+---
+
+### Summer Day Camp Counselor
+**Company:** YMCA  
+**Location:** Lower West Side, Chicago  
+**Salary:** $25,587 – $25,587  
+**J1 Score:** 🟡 70/100  
+**Posted:** 2026-06-05 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5752935827?utm_medium=api&utm_source=7c00c798)
+
+> Rauner YMCA is hiring Summer Day Camp Counselors for Summer 2026! At the Y, we create an exciting, safe camp environment for kids and staff to have an unforgettable summer. While campers are taking part in in unique experiences and adventures, our Summer Day Camp Counselors are developing leadership skills and confidence while making lasting friendships and memories. Pay starts at $17.90 per hour, Monday-Friday schedule The Summer Day Camp Counse
 
 ---
 
