@@ -1,8 +1,8 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 05, 2026  
+**Date:** June 06, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 5  
+**Total listings:** 6  
 **Top J1 picks (score ≥ 65):** 5
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
@@ -70,6 +70,12 @@
 > The YMCA is hiring Summer Day Camp Counselors for Summer 2026 for offsite programming at New Field Elementary School and Peterson Elementary School! At the Y, we create an exciting, safe camp environment for kids and staff to have an unforgettable summer. While campers are taking part in in unique experiences and adventures, our Summer Day Camp Counselors are developing leadership skills and confidence while making lasting friendships and memorie
 
 ---
+
+## Other Listings
+
+| Title | Company | Location | Score | Apply |
+|-------|---------|----------|-------|-------|
+| Sports and Recreation Leadership Instructor | After School Matters | The Gap, Chicago | 37 | [Apply](https://www.adzuna.com/details/5754166069?utm_medium=api&utm_source=7c00c798) |
 
 ---
 _Scanned daily at 8 AM Chicago time. Always verify J1 work authorisation with your sponsor before applying._
