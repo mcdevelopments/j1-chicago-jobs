@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 08, 2026  
+**Date:** June 09, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 9  
-**Top J1 picks (score ≥ 65):** 8
+**Total listings:** 8  
+**Top J1 picks (score ≥ 65):** 7
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -11,15 +11,15 @@
 
 ## ⭐ Top J1-Recommended Listings
 
-### Camp Counselor-Summer Ice Skating (Part-Time/Seasonal)
-**Company:** Niles Park District  
-**Location:** Niles, Cook County  
-**Salary:** $51,742 – $51,742  
-**J1 Score:** 🟢 98/100  
+### Summer Day Camp Counselor
+**Company:** KE Camps  
+**Location:** River Grove, Cook County  
+**Salary:** $26,393 – $26,393  
+**J1 Score:** 🟡 74/100  
 **Posted:** 2026-06-08 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5756375268?se=KAYc01lj8RGDG-cajORpQw&utm_medium=api&utm_source=7c00c798&v=A37A8B2A4869C4D584D514AFDE9A6F2FFFC2557A)
+**Apply:** [View listing](https://www.adzuna.com/land/ad/5755964231?se=ii-wjBtk8RGvV9rkZ7vezw&utm_medium=api&utm_source=7c00c798&v=7CD568265369AE05A3F8E11C67E470DC68C5DCA3)
 
-> Job Description Job Description Description: The Niles Park District is seeking energetic and reliable Summer Skating Camp Counselors to join our IceLand team! This seasonal position is perfect for individuals who enjoy working with children and have a passion for skating and summer fun. Our Summer Skating Camp runs June 15 through August 8, with camp sessions held Mondays, Wednesdays, and Fridays from 9:00 a.m. to 4:00 p.m. Opportunities for add
+> Job Description Job Description KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Cam
 
 ---
 
@@ -41,33 +41,9 @@
 **Salary:** $27,836 – $27,836  
 **J1 Score:** 🟡 74/100  
 **Posted:** 2026-06-08 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5755963529?se=KAYc01lj8RGDG-cajORpQw&utm_medium=api&utm_source=7c00c798&v=848FF0FE78E9449A4CF39D059BBA937719A76DB2)
+**Apply:** [View listing](https://www.adzuna.com/land/ad/5755963529?se=ii-wjBtk8RGvV9rkZ7vezw&utm_medium=api&utm_source=7c00c798&v=848FF0FE78E9449A4CF39D059BBA937719A76DB2)
 
 > Job Description Job Description KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Cam
-
----
-
-### Summer Day Camp Counselor
-**Company:** KE Camps  
-**Location:** River Grove, Cook County  
-**Salary:** $26,393 – $26,393  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-06-08 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5755964231?se=KAYc01lj8RGDG-cajORpQw&utm_medium=api&utm_source=7c00c798&v=7CD568265369AE05A3F8E11C67E470DC68C5DCA3)
-
-> Job Description Job Description KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Cam
-
----
-
-### Summer Camp Substitute Counselor - Evanston
-**Company:** Steve & Kate's Camp  
-**Location:** Evanston, Cook County  
-**Salary:** $32,240 – $37,440  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-05-17 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5732194436?utm_medium=api&utm_source=7c00c798)
-
-> Job Details Location : 1574 Sherman Ave., Evanston, IL 60201 Camp Dates : 6/15/2026 (Mon) - 8/7/2026 (Fri) - (additionally, one weekend to set up, one weekend to breakdown, and an orientation date) Camp Hours : 8:00 am - 6:00 pm (actual shifts will vary) Hourly Wage : The hourly rate for this position is $15.50 - $18.00 per hour. The pay range listed here is what Steve & Kate's Camp in good faith anticipates offering for this job opening. Actual 
 
 ---
 
@@ -104,6 +80,18 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5745172037?utm_medium=api&utm_source=7c00c798)
 
 > The YMCA is hiring Summer Day Camp Counselors for Summer 2026 for offsite programming at New Field Elementary School and Peterson Elementary School! At the Y, we create an exciting, safe camp environment for kids and staff to have an unforgettable summer. While campers are taking part in in unique experiences and adventures, our Summer Day Camp Counselors are developing leadership skills and confidence while making lasting friendships and memorie
+
+---
+
+### Restaurant Server
+**Company:** Highgate Hotels  
+**Location:** Kensington, Chicago  
+**Salary:** $38,616 – $38,616  
+**J1 Score:** 🟡 60/100  
+**Posted:** 2026-06-09 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5757047055?utm_medium=api&utm_source=7c00c798)
+
+> Viceroy Hotels & Resorts offers a fresh take on hospitality, centered on the richness of experiences and cultural connection. A leader in modern luxury, Viceroy is committed to creating unique, immersive experiences that allow guests to craft unforgettable narratives rooted in the authenticity of each destination. Viceroy’s portfolio of hotels and resorts can be found in a diverse array of breathtaking and inspiring locations including Los Cabos,
 
 ---
 
