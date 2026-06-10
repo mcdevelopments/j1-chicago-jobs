@@ -1,27 +1,15 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 09, 2026  
+**Date:** June 10, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 8  
-**Top J1 picks (score ≥ 65):** 7
+**Total listings:** 6  
+**Top J1 picks (score ≥ 65):** 5
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
 ---
 
 ## ⭐ Top J1-Recommended Listings
-
-### Summer Day Camp Counselor
-**Company:** KE Camps  
-**Location:** River Grove, Cook County  
-**Salary:** $26,393 – $26,393  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-06-08 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5755964231?se=ii-wjBtk8RGvV9rkZ7vezw&utm_medium=api&utm_source=7c00c798&v=7CD568265369AE05A3F8E11C67E470DC68C5DCA3)
-
-> Job Description Job Description KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Cam
-
----
 
 ### Summer Day Camp Counselor
 **Company:** KE Camps  
@@ -32,18 +20,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5746728442?utm_medium=api&utm_source=7c00c798)
 
 > KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Camp Counselor , you will be an act
-
----
-
-### Summer Day Camp Counselor
-**Company:** KE Camps  
-**Location:** Park Ridge, Cook County  
-**Salary:** $27,836 – $27,836  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-06-08 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5755963529?se=ii-wjBtk8RGvV9rkZ7vezw&utm_medium=api&utm_source=7c00c798&v=848FF0FE78E9449A4CF39D059BBA937719A76DB2)
-
-> Job Description Job Description KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Cam
 
 ---
 
