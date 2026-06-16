@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 15, 2026  
+**Date:** June 16, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 9  
-**Top J1 picks (score ≥ 65):** 8
+**Total listings:** 10  
+**Top J1 picks (score ≥ 65):** 9
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -32,6 +32,18 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5758822256?utm_medium=api&utm_source=7c00c798)
 
 > Eyas Landing, a leading therapeutic clinic in Chicago, IL is seeking a skilled and compassionate Part-Time Occupational Therapist (OT) to join our multidisciplinary team of top therapists while facilitating our therapeutic Summer Camp during the month of July, 2026 . This is an opportunity to provide evidence-based, play-focused pediatric therapy in a collaborative, innovative environment designed to help children thrive. Apply today at threebird
+
+---
+
+### Summer Camp Counselor
+**Company:** East Bank Club  
+**Location:** River North, Chicago  
+**Salary:** $17 – $17  
+**J1 Score:** 🟡 78/100  
+**Posted:** 2026-06-16 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5765725340?utm_medium=api&utm_source=7c00c798)
+
+> Do you enjoy working with children? Love making new friends and getting a free membership as part of your summer employment? If so, EBC has a great summer job opportunity for you! As a Camp Counselor, you will make camp a welcoming, fun, and creative place by combining creativity, integrity, passion, and hospitality. The Camp Counselor oversees all planned camp activities, participates in daily swimming, and maintains consistent communication wit
 
 ---
 
