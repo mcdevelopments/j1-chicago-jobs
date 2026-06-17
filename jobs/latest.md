@@ -1,27 +1,15 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 16, 2026  
+**Date:** June 17, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 10  
-**Top J1 picks (score ≥ 65):** 9
+**Total listings:** 8  
+**Top J1 picks (score ≥ 65):** 7
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
 ---
 
 ## ⭐ Top J1-Recommended Listings
-
-### Summer Camp Counselor on Call
-**Company:** Wilmette Park District  
-**Location:** Wilmette, Cook County  
-**Salary:** From $33,280  
-**J1 Score:** 🟢 86/100  
-**Posted:** 2026-06-13 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5763191830?utm_medium=api&utm_source=7c00c798)
-
-> Description The Wilmette Park District offers Summer Short-term staff the following benefits: Individual Seasonal Beach and Pool Pass, One (1) parking decal for Gillson Beach (over 16 years of age only), Individual Center Fitness Club Membership for June – August the current year of employment. Job Summary: The Counselor On-Call position provides flexible support to our summer camp programs by substituting for regular Camp Counselors as needed ac
-
----
 
 ### Part-Time Occupational Therapist (OT) Summer - Chicago
 **Company:** Eyas Landing  
@@ -56,18 +44,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5746728442?utm_medium=api&utm_source=7c00c798)
 
 > KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Camp Counselor , you will be an act
-
----
-
-### Summer Camp Substitute Counselor - Evanston
-**Company:** Steve & Kate's Camp  
-**Location:** Evanston, Cook County  
-**Salary:** $32,240 – $37,440  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-05-17 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5732194436?utm_medium=api&utm_source=7c00c798)
-
-> Job Details Location : 1574 Sherman Ave., Evanston, IL 60201 Camp Dates : 6/15/2026 (Mon) - 8/7/2026 (Fri) - (additionally, one weekend to set up, one weekend to breakdown, and an orientation date) Camp Hours : 8:00 am - 6:00 pm (actual shifts will vary) Hourly Wage : The hourly rate for this position is $15.50 - $18.00 per hour. The pay range listed here is what Steve & Kate's Camp in good faith anticipates offering for this job opening. Actual 
 
 ---
 
