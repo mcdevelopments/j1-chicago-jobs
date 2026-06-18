@@ -1,15 +1,27 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 17, 2026  
+**Date:** June 18, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 8  
-**Top J1 picks (score ≥ 65):** 7
+**Total listings:** 9  
+**Top J1 picks (score ≥ 65):** 8
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
 ---
 
 ## ⭐ Top J1-Recommended Listings
+
+### Summer Camp Counselor on Call
+**Company:** Wilmette Park District  
+**Location:** Wilmette, Cook County  
+**Salary:** From $33,280  
+**J1 Score:** 🟢 86/100  
+**Posted:** 2026-06-13 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5763191830?utm_medium=api&utm_source=7c00c798)
+
+> Description The Wilmette Park District offers Summer Short-term staff the following benefits: Individual Seasonal Beach and Pool Pass, One (1) parking decal for Gillson Beach (over 16 years of age only), Individual Center Fitness Club Membership for June – August the current year of employment. Job Summary: The Counselor On-Call position provides flexible support to our summer camp programs by substituting for regular Camp Counselors as needed ac
+
+---
 
 ### Part-Time Occupational Therapist (OT) Summer - Chicago
 **Company:** Eyas Landing  
