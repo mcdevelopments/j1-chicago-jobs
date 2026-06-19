@@ -1,8 +1,8 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 18, 2026  
+**Date:** June 19, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 9  
+**Total listings:** 8  
 **Top J1 picks (score ≥ 65):** 8
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
@@ -106,12 +106,6 @@
 > Viceroy Hotels & Resorts offers a fresh take on hospitality, centered on the richness of experiences and cultural connection. A leader in modern luxury, Viceroy is committed to creating unique, immersive experiences that allow guests to craft unforgettable narratives rooted in the authenticity of each destination. Viceroy’s portfolio of hotels and resorts can be found in a diverse array of breathtaking and inspiring locations including Los Cabos,
 
 ---
-
-## Other Listings
-
-| Title | Company | Location | Score | Apply |
-|-------|---------|----------|-------|-------|
-| Sports and Recreation Leadership Instructor | After School Matters | The Gap, Chicago | 37 | [Apply](https://www.adzuna.com/details/5754166069?utm_medium=api&utm_source=7c00c798) |
 
 ---
 _Scanned daily at 8 AM Chicago time. Always verify J1 work authorisation with your sponsor before applying._
