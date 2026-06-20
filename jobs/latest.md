@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 19, 2026  
+**Date:** June 20, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
 **Total listings:** 8  
-**Top J1 picks (score ≥ 65):** 8
+**Top J1 picks (score ≥ 65):** 7
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -59,18 +59,6 @@
 
 ---
 
-### SEASONAL Sales Associate
-**Company:** Little Green Apple  
-**Location:** Park Ridge, Cook County  
-**Salary:** $37,520 – $37,520  
-**J1 Score:** 🟡 72/100  
-**Posted:** 2026-06-03 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5751512206?utm_medium=api&utm_source=7c00c798)
-
-> We are looking for Seasonal Summer sales associates who are enthusiastic, energetic, friendly, and hard-working! The Seasonal Summer Sales Associate is responsible for providing exemplary selling and customer service that is designed to improve the productivity and profitability of the store. The Seasonal Sales Associate provides the customer with product recommendations and solutions by working proactively with them and serves as a role model of
-
----
-
 ### Summer Day Camp Counselor
 **Company:** YMCA  
 **Location:** Lower West Side, Chicago  
@@ -106,6 +94,12 @@
 > Viceroy Hotels & Resorts offers a fresh take on hospitality, centered on the richness of experiences and cultural connection. A leader in modern luxury, Viceroy is committed to creating unique, immersive experiences that allow guests to craft unforgettable narratives rooted in the authenticity of each destination. Viceroy’s portfolio of hotels and resorts can be found in a diverse array of breathtaking and inspiring locations including Los Cabos,
 
 ---
+
+## Other Listings
+
+| Title | Company | Location | Score | Apply |
+|-------|---------|----------|-------|-------|
+| Sports and Recreation Leadership Instructor | After School Matters | The Gap, Chicago | 37 | [Apply](https://www.adzuna.com/details/5754166069?utm_medium=api&utm_source=7c00c798) |
 
 ---
 _Scanned daily at 8 AM Chicago time. Always verify J1 work authorisation with your sponsor before applying._
