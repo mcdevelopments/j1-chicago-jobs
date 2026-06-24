@@ -1,6 +1,6 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 23, 2026  
+**Date:** June 24, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
 **Total listings:** 8  
 **Top J1 picks (score ≥ 65):** 7
@@ -47,6 +47,18 @@
 
 ---
 
+### Summer Aquatics Day Camp Counselor
+**Company:** YMCA of Metropolitan Chicago  
+**Location:** Schiller Park, Cook County  
+**Salary:** $31,352 – $31,352  
+**J1 Score:** 🟡 78/100  
+**Posted:** 2026-06-24 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/land/ad/5774916191?se=RD4G9uFv8RGrvYF11hqYFQ&utm_medium=api&utm_source=7c00c798&v=D29FDE71DD735955BA90AD5F1B8E4D3DA80C19A3)
+
+> Summer Aquatics Day Camp Counselor The Summer Aquatics Camp Counselor serves as a professional role model for our campers by leading through example and guiding campers through recreational activities that teach life skills, encourage healthy and safe behaviors and create a positive camper experience. The Summer Aquatics Camp Counselor ensures that each youth has adequate supervision including ensuring that no youth is unsupervised at any time. P
+
+---
+
 ### Summer Day Camp Counselor
 **Company:** KE Camps  
 **Location:** Park Ridge, Cook County  
@@ -80,18 +92,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5745172037?utm_medium=api&utm_source=7c00c798)
 
 > The YMCA is hiring Summer Day Camp Counselors for Summer 2026 for offsite programming at New Field Elementary School and Peterson Elementary School! At the Y, we create an exciting, safe camp environment for kids and staff to have an unforgettable summer. While campers are taking part in in unique experiences and adventures, our Summer Day Camp Counselors are developing leadership skills and confidence while making lasting friendships and memorie
-
----
-
-### Restaurant Server
-**Company:** Highgate Hotels  
-**Location:** Kensington, Chicago  
-**Salary:** $38,616 – $38,616  
-**J1 Score:** 🟡 60/100  
-**Posted:** 2026-06-09 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5757047055?utm_medium=api&utm_source=7c00c798)
-
-> Viceroy Hotels & Resorts offers a fresh take on hospitality, centered on the richness of experiences and cultural connection. A leader in modern luxury, Viceroy is committed to creating unique, immersive experiences that allow guests to craft unforgettable narratives rooted in the authenticity of each destination. Viceroy’s portfolio of hotels and resorts can be found in a diverse array of breathtaking and inspiring locations including Los Cabos,
 
 ---
 
