@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 24, 2026  
+**Date:** June 25, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 8  
-**Top J1 picks (score ≥ 65):** 7
+**Total listings:** 7  
+**Top J1 picks (score ≥ 65):** 6
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -44,18 +44,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5765725340?utm_medium=api&utm_source=7c00c798)
 
 > Do you enjoy working with children? Love making new friends and getting a free membership as part of your summer employment? If so, EBC has a great summer job opportunity for you! As a Camp Counselor, you will make camp a welcoming, fun, and creative place by combining creativity, integrity, passion, and hospitality. The Camp Counselor oversees all planned camp activities, participates in daily swimming, and maintains consistent communication wit
-
----
-
-### Summer Aquatics Day Camp Counselor
-**Company:** YMCA of Metropolitan Chicago  
-**Location:** Schiller Park, Cook County  
-**Salary:** $31,352 – $31,352  
-**J1 Score:** 🟡 78/100  
-**Posted:** 2026-06-24 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5774916191?se=RD4G9uFv8RGrvYF11hqYFQ&utm_medium=api&utm_source=7c00c798&v=D29FDE71DD735955BA90AD5F1B8E4D3DA80C19A3)
-
-> Summer Aquatics Day Camp Counselor The Summer Aquatics Camp Counselor serves as a professional role model for our campers by leading through example and guiding campers through recreational activities that teach life skills, encourage healthy and safe behaviors and create a positive camper experience. The Summer Aquatics Camp Counselor ensures that each youth has adequate supervision including ensuring that no youth is unsupervised at any time. P
 
 ---
 
