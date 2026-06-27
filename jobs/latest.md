@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 26, 2026  
+**Date:** June 27, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 8  
-**Top J1 picks (score ≥ 65):** 7
+**Total listings:** 9  
+**Top J1 picks (score ≥ 65):** 8
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -56,6 +56,18 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5777227716?utm_medium=api&utm_source=7c00c798)
 
 > The Summer Sports Camp Counselor serves as a professional role model for our campers by leading through example and guiding campers through recreational activities that teach life skills, encourage healthy and safe behaviors and create a positive camper experience. The Summer Sports Camp Counselor ensures that each youth has adequate supervision including ensuring that no youth is unsupervised at any time. Pay starts at $17.90 per hour, Monday-Fr
+
+---
+
+### Seasonal Restaurant Server
+**Company:** Highgate Hotels  
+**Location:** Kensington, Chicago  
+**Salary:** $37,142 – $37,142  
+**J1 Score:** 🟡 76/100  
+**Posted:** 2026-06-27 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5778964558?utm_medium=api&utm_source=7c00c798)
+
+> Viceroy Hotels & Resorts offers a fresh take on hospitality, centered on the richness of experiences and cultural connection. A leader in modern luxury, Viceroy is committed to creating unique, immersive experiences that allow guests to craft unforgettable narratives rooted in the authenticity of each destination. Viceroy’s portfolio of hotels and resorts can be found in a diverse array of breathtaking and inspiring locations including Los Cabos,
 
 ---
 
