@@ -1,27 +1,15 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** June 30, 2026  
+**Date:** July 01, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 9  
-**Top J1 picks (score ≥ 65):** 7
+**Total listings:** 6  
+**Top J1 picks (score ≥ 65):** 4
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
 ---
 
 ## ⭐ Top J1-Recommended Listings
-
-### Summer Camp Counselor on Call
-**Company:** Wilmette Park District  
-**Location:** Wilmette, Cook County  
-**Salary:** From $33,280  
-**J1 Score:** 🟢 86/100  
-**Posted:** 2026-06-13 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5763191830?utm_medium=api&utm_source=7c00c798)
-
-> Description The Wilmette Park District offers Summer Short-term staff the following benefits: Individual Seasonal Beach and Pool Pass, One (1) parking decal for Gillson Beach (over 16 years of age only), Individual Center Fitness Club Membership for June – August the current year of employment. Job Summary: The Counselor On-Call position provides flexible support to our summer camp programs by substituting for regular Camp Counselors as needed ac
-
----
 
 ### Part-Time Occupational Therapist (OT) Summer - Chicago
 **Company:** Eyas Landing  
@@ -32,18 +20,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5758822256?utm_medium=api&utm_source=7c00c798)
 
 > Eyas Landing, a leading therapeutic clinic in Chicago, IL is seeking a skilled and compassionate Part-Time Occupational Therapist (OT) to join our multidisciplinary team of top therapists while facilitating our therapeutic Summer Camp during the month of July, 2026 . This is an opportunity to provide evidence-based, play-focused pediatric therapy in a collaborative, innovative environment designed to help children thrive. Apply today at threebird
-
----
-
-### Summer Camp Counselor
-**Company:** East Bank Club  
-**Location:** River North, Chicago  
-**Salary:** $17 – $17  
-**J1 Score:** 🟡 78/100  
-**Posted:** 2026-06-16 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5765725340?utm_medium=api&utm_source=7c00c798)
-
-> Do you enjoy working with children? Love making new friends and getting a free membership as part of your summer employment? If so, EBC has a great summer job opportunity for you! As a Camp Counselor, you will make camp a welcoming, fun, and creative place by combining creativity, integrity, passion, and hospitality. The Camp Counselor oversees all planned camp activities, participates in daily swimming, and maintains consistent communication wit
 
 ---
 
@@ -72,18 +48,6 @@
 ---
 
 ### Summer Day Camp Counselor
-**Company:** KE Camps  
-**Location:** Park Ridge, Cook County  
-**Salary:** $33,280 – $37,440  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-05-31 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5746728442?utm_medium=api&utm_source=7c00c798)
-
-> KE Camps is the leading provider of summer camps for country clubs nationwide. We partner with over 230 private clubs all over the country to implement traditional-style day camps for elementary-aged children. Our Staff are the backbone of our programs and therefore, we pride ourselves on giving them an incredible amount of support. As a staff member, we guarantee you will feel a part of the KE Camps Team! As a Camp Counselor , you will be an act
-
----
-
-### Summer Day Camp Counselor
 **Company:** YMCA  
 **Location:** Lower West Side, Chicago  
 **Salary:** $25,587 – $25,587  
@@ -99,7 +63,7 @@
 
 | Title | Company | Location | Score | Apply |
 |-------|---------|----------|-------|-------|
-| On-Call Desk Clerk | University of Chicago | Hyde Park, Chicago | 44 | [Apply](https://www.adzuna.com/land/ad/5781927894?se=rre_Pph08RGNecbrflQaYg&utm_medium=api&utm_source=7c00c798&v=45A4600AA8EFAC7C0204644B1EDAC0ED946AC982) |
+| On-Call Desk Clerk | University of Chicago | Hyde Park, Chicago | 44 | [Apply](https://www.adzuna.com/land/ad/5781927894?se=LkA0WmN18RGOeNvhEByHAg&utm_medium=api&utm_source=7c00c798&v=45A4600AA8EFAC7C0204644B1EDAC0ED946AC982) |
 | Sports and Recreation Leadership Instructor | After School Matters | The Gap, Chicago | 37 | [Apply](https://www.adzuna.com/details/5754166069?utm_medium=api&utm_source=7c00c798) |
 
 ---
