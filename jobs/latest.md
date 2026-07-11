@@ -1,27 +1,15 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** July 10, 2026  
+**Date:** July 11, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 4  
-**Top J1 picks (score ≥ 65):** 3
+**Total listings:** 2  
+**Top J1 picks (score ≥ 65):** 1
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
 ---
 
 ## ⭐ Top J1-Recommended Listings
-
-### Part-Time Occupational Therapist (OT) Summer - Chicago
-**Company:** Eyas Landing  
-**Location:** Greektown, Chicago  
-**Salary:** $79,040 – $85,280  
-**J1 Score:** 🟢 82/100  
-**Posted:** 2026-07-02 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5784913975?utm_medium=api&utm_source=7c00c798)
-
-> Eyas Landing, a leading therapeutic clinic in Chicago, IL is seeking a skilled and compassionate Part-Time Occupational Therapist (OT) to join our multidisciplinary team of top therapists while facilitating our therapeutic Summer Camp during the month of July, 2026 . This is an opportunity to provide evidence-based, play-focused pediatric therapy in a collaborative, innovative environment designed to help children thrive. Apply today at threebird
-
----
 
 ### Summer Sports Day Camp Counselor
 **Company:** YMCA  
@@ -35,23 +23,11 @@
 
 ---
 
-### Seasonal Restaurant Server
-**Company:** Highgate Hotels  
-**Location:** Kensington, Chicago  
-**Salary:** $37,142 – $37,142  
-**J1 Score:** 🟡 76/100  
-**Posted:** 2026-06-27 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5778964558?utm_medium=api&utm_source=7c00c798)
-
-> Viceroy Hotels & Resorts offers a fresh take on hospitality, centered on the richness of experiences and cultural connection. A leader in modern luxury, Viceroy is committed to creating unique, immersive experiences that allow guests to craft unforgettable narratives rooted in the authenticity of each destination. Viceroy’s portfolio of hotels and resorts can be found in a diverse array of breathtaking and inspiring locations including Los Cabos,
-
----
-
 ## Other Listings
 
 | Title | Company | Location | Score | Apply |
 |-------|---------|----------|-------|-------|
-| On-Call Desk Clerk | University of Chicago | Hyde Park, Chicago | 44 | [Apply](https://www.adzuna.com/land/ad/5781927894?se=pNoyb3R88RG1-IwfRWwy_Q&utm_medium=api&utm_source=7c00c798&v=45A4600AA8EFAC7C0204644B1EDAC0ED946AC982) |
+| On-Call Desk Clerk | University of Chicago | Hyde Park, Chicago | 44 | [Apply](https://www.adzuna.com/land/ad/5781927894?se=dALR6zN98RGNqvBiBxieKA&utm_medium=api&utm_source=7c00c798&v=45A4600AA8EFAC7C0204644B1EDAC0ED946AC982) |
 
 ---
 _Scanned daily at 8 AM Chicago time. Always verify J1 work authorisation with your sponsor before applying._
