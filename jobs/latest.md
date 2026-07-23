@@ -1,8 +1,8 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** July 22, 2026  
+**Date:** July 23, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 1  
+**Total listings:** 2  
 **Top J1 picks (score ≥ 65):** 1
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
@@ -22,6 +22,12 @@
 > Eyas Landing, a leading therapeutic clinic in Chicago, IL is seeking a skilled and compassionate Part-Time Occupational Therapist (OT) to join our multidisciplinary team of top therapists while facilitating our therapeutic Summer Camp during the month of July, 2026 . This is an opportunity to provide evidence-based, play-focused pediatric therapy in a collaborative, innovative environment designed to help children thrive. Apply today at threebird
 
 ---
+
+## Other Listings
+
+| Title | Company | Location | Score | Apply |
+|-------|---------|----------|-------|-------|
+| Hockey Instructor | Niles Park District | Niles, Cook County | 25 | [Apply](https://www.adzuna.com/details/5810859536?utm_medium=api&utm_source=7c00c798) |
 
 ---
 _Scanned daily at 8 AM Chicago time. Always verify J1 work authorisation with your sponsor before applying._
