@@ -1,8 +1,8 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** August 09, 2026  
+**Date:** August 10, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 3  
+**Total listings:** 2  
 **Top J1 picks (score ≥ 65):** 1
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
@@ -27,7 +27,6 @@
 
 | Title | Company | Location | Score | Apply |
 |-------|---------|----------|-------|-------|
-| Hockey Instructor | Niles Park District | Niles, Cook County | 25 | [Apply](https://www.adzuna.com/land/ad/5834383581?se=4o49IfmT8RGp_rap8EwByw&utm_medium=api&utm_source=7c00c798&v=5ADD3AE5CFEC39CEDC936F6237127714F4BCA4E7) |
 | Hockey Instructor | Niles Park District | Niles, Cook County | 25 | [Apply](https://www.adzuna.com/details/5810859536?utm_medium=api&utm_source=7c00c798) |
 
 ---
