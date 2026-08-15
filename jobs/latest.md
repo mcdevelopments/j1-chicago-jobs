@@ -1,27 +1,15 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** August 14, 2026  
+**Date:** August 15, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 3  
-**Top J1 picks (score ≥ 65):** 2
+**Total listings:** 2  
+**Top J1 picks (score ≥ 65):** 1
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
 ---
 
 ## ⭐ Top J1-Recommended Listings
-
-### Restaurant Server
-**Company:** Highgate Hotels  
-**Location:** Kensington, Chicago  
-**Salary:** $38,616 – $38,616  
-**J1 Score:** 🟡 60/100  
-**Posted:** 2026-07-28 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5818288738?utm_medium=api&utm_source=7c00c798)
-
-> Viceroy Hotels & Resorts offers a fresh take on hospitality, centered on the richness of experiences and cultural connection. A leader in modern luxury, Viceroy is committed to creating unique, immersive experiences that allow guests to craft unforgettable narratives rooted in the authenticity of each destination. Viceroy’s portfolio of hotels and resorts can be found in a diverse array of breathtaking and inspiring locations including Los Cabos,
-
----
 
 ### Student Intern
 **Company:** United States Courts  
