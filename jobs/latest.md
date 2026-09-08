@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** September 07, 2026  
+**Date:** September 08, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 4  
-**Top J1 picks (score ≥ 65):** 3
+**Total listings:** 3  
+**Top J1 picks (score ≥ 65):** 2
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -32,18 +32,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5849126883?utm_medium=api&utm_source=7c00c798)
 
 > When you join the team at Unum, you become part of an organization committed to helping you thrive. Here, we work to provide the employee benefits and service solutions that enable employees at our client companies to thrive throughout life's moments. And this starts with ensuring that every one of our team members enjoys opportunities to succeed both professionally and personally. To enable this, we provide: Award-winning culture Inclusion and d
-
----
-
-### Physician / Internal Medicine / Illinois / Permanent / Asst Director/Chicago/Primary Care/Leadership Exp. Req. Job
-**Company:** Accolades Physician Resources LLC  
-**Location:** Schiller Park, Cook County  
-**Salary:** $88,627 – $88,627  
-**J1 Score:** 🟡 51/100  
-**Posted:** 2026-09-07 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5874308023?se=Vjjf_eaq8RGyxtY0rUukWA&utm_medium=api&utm_source=7c00c798&v=1BB392876B6A3B4BA4A68766BFA6A9AB832A6D8D)
-
-> PHYSICIAN LEADERSHIP/ASSOC DIRECTOR OPPORTUNITYCOMMUNITYLive in Chicago or suburbs, where locals enjoy fine dining, lakefront festivals, Pro /NCAA sports, world class music concerts, symphony, orchestra, theater, museums, multiple beaches & marinas in Summer, the riverwalk plus outstanding shopping on the magnificent mile. 30 minutes to the busiest US International Airport. OVERVIEW Join an established neighborhood primary care/geriatric clinic, 
 
 ---
 
