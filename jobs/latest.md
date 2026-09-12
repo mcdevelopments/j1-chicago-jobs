@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** September 11, 2026  
+**Date:** September 12, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 3  
-**Top J1 picks (score ≥ 65):** 2
+**Total listings:** 4  
+**Top J1 picks (score ≥ 65):** 3
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -20,6 +20,18 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5853168012?utm_medium=api&utm_source=7c00c798)
 
 > Job Overview: Summer 2027 Intern - Warehouse Operations Management - Northlake, IL As a Summer 2027 Intern - Warehouse Operations Management in Northlake, IL at Keurig Dr Pepper (KDP), you will be assigned a project that is focused on any of the following areas of business: Inventory Analysis, Layout & Space Utilization, Order Picking Efficiency, Technology Integration, or Process Controls. Weeks 1-3 will be hands on training within warehouse and
+
+---
+
+### Law Clerk Intern - Summer 2027
+**Company:** Roderick MacArthur Foundation  
+**Location:** Magnificent Mile, Chicago  
+**Salary:** $52,000 – $52,000  
+**J1 Score:** 🟡 76/100  
+**Posted:** 2026-09-12 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/details/5880693323?utm_medium=api&utm_source=7c00c798)
+
+> Internship Summary The Roderick and Solange MacArthur Justice Center (MJC) is looking for students committed to transformational justice. MJC is accepting applications from current 1L and 2L law students for summer internships in Chicago, Illinois, and New Orleans, Louisiana, and for current 2L students in Washington, D.C. These are hybrid internships; Students must spend 2-3 days per week in the office and reside within commuting distance to the
 
 ---
 
