@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** September 18, 2026  
+**Date:** September 19, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 5  
-**Top J1 picks (score ≥ 65):** 3
+**Total listings:** 4  
+**Top J1 picks (score ≥ 65):** 2
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -35,24 +35,12 @@
 
 ---
 
-### Sales Consultant Associate- Chicago (Summer 2027 Start Date)
-**Company:** Unum Group  
-**Location:** Illinois Medical District, Chicago  
-**Salary:** $52,891 – $52,891  
-**J1 Score:** 🟡 74/100  
-**Posted:** 2026-08-19 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5849126883?utm_medium=api&utm_source=7c00c798)
-
-> When you join the team at Unum, you become part of an organization committed to helping you thrive. Here, we work to provide the employee benefits and service solutions that enable employees at our client companies to thrive throughout life's moments. And this starts with ensuring that every one of our team members enjoys opportunities to succeed both professionally and personally. To enable this, we provide: Award-winning culture Inclusion and d
-
----
-
 ## Other Listings
 
 | Title | Company | Location | Score | Apply |
 |-------|---------|----------|-------|-------|
+| McMullan Museum Scholar (One Year Placement) | Art Institute of Chicago | K-Town, Chicago | 44 | [Apply](https://www.adzuna.com/details/5890280947?utm_medium=api&utm_source=7c00c798) |
 | McMullan Museum Scholar (Two Year Placement) | Art Institute of Chicago | K-Town, Chicago | 44 | [Apply](https://www.adzuna.com/details/5888954497?utm_medium=api&utm_source=7c00c798) |
-| On-Call Desk Clerk | University of Chicago | Hyde Park, Chicago | 44 | [Apply](https://www.adzuna.com/land/ad/5872881312?se=pELrIoKz8RGm1alvctyjWA&utm_medium=api&utm_source=7c00c798&v=CA8249EACB00CB53B5B8955456A2FE285065E2D5) |
 
 ---
 _Scanned daily at 8 AM Chicago time. Always verify J1 work authorisation with your sponsor before applying._
