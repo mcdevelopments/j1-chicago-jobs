@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** September 24, 2026  
+**Date:** September 25, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 3  
-**Top J1 picks (score ≥ 65):** 1
+**Total listings:** 2  
+**Top J1 picks (score ≥ 65):** 0
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -11,23 +11,13 @@
 
 ## ⭐ Top J1-Recommended Listings
 
-### Law Clerk Intern - Summer 2027
-**Company:** Roderick MacArthur Foundation  
-**Location:** Magnificent Mile, Chicago  
-**Salary:** $52,000 – $52,000  
-**J1 Score:** 🟡 76/100  
-**Posted:** 2026-09-12 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5880693323?utm_medium=api&utm_source=7c00c798)
-
-> Internship Summary The Roderick and Solange MacArthur Justice Center (MJC) is looking for students committed to transformational justice. MJC is accepting applications from current 1L and 2L law students for summer internships in Chicago, Illinois, and New Orleans, Louisiana, and for current 2L students in Washington, D.C. These are hybrid internships; Students must spend 2-3 days per week in the office and reside within commuting distance to the
-
----
+_No high-scoring listings today — check back tomorrow._
 
 ## Other Listings
 
 | Title | Company | Location | Score | Apply |
 |-------|---------|----------|-------|-------|
-| On-Call Desk Clerk | University of Chicago | Hyde Park, Chicago | 44 | [Apply](https://www.adzuna.com/land/ad/5872881312?se=mAncvj-48RGCPJhmN82Vmg&utm_medium=api&utm_source=7c00c798&v=CA8249EACB00CB53B5B8955456A2FE285065E2D5) |
+| On-Call Desk Clerk | University of Chicago | Hyde Park, Chicago | 44 | [Apply](https://www.adzuna.com/land/ad/5872881312?se=AErMGgm58RG3jpCv9xpWmA&utm_medium=api&utm_source=7c00c798&v=CA8249EACB00CB53B5B8955456A2FE285065E2D5) |
 | Student Engagement Coordinator - IC | Institute For Latino Progres | Lower West Side, Chica | 41 | [Apply](https://www.adzuna.com/details/5891508051?utm_medium=api&utm_source=7c00c798) |
 
 ---
