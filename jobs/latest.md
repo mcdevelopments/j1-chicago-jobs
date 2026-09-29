@@ -1,6 +1,6 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** September 28, 2026  
+**Date:** September 29, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
 **Total listings:** 3  
 **Top J1 picks (score ≥ 65):** 1
@@ -27,7 +27,7 @@
 
 | Title | Company | Location | Score | Apply |
 |-------|---------|----------|-------|-------|
-| On-Call Desk Clerk | University of Chicago | Hyde Park, Chicago | 44 | [Apply](https://www.adzuna.com/land/ad/5872881312?se=ItJfRHe78RGKj5CFZN1R3A&utm_medium=api&utm_source=7c00c798&v=CA8249EACB00CB53B5B8955456A2FE285065E2D5) |
+| On-Call Desk Clerk | University of Chicago | Hyde Park, Chicago | 44 | [Apply](https://www.adzuna.com/land/ad/5872881312?se=GPxvjjO88RGnaMK3Ib81hg&utm_medium=api&utm_source=7c00c798&v=CA8249EACB00CB53B5B8955456A2FE285065E2D5) |
 | Student Engagement Coordinator - IC | Institute For Latino Progres | Lower West Side, Chica | 41 | [Apply](https://www.adzuna.com/details/5891508051?utm_medium=api&utm_source=7c00c798) |
 
 ---
