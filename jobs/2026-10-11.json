@@ -1,0 +1,31 @@
+{
+  "scan_date": "2026-10-11",
+  "scanned_at": "2026-10-11T17:55:04Z",
+  "location": "Lincoln Park, Chicago, IL",
+  "radius_miles": 13,
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "title": "Law Clerk Intern - Summer 2027",
+      "company": "Roderick MacArthur Foundation",
+      "location": "The Loop, Chicago",
+      "url": "https://www.adzuna.com/details/5880693323?utm_medium=api&utm_source=7c00c798",
+      "description": "Internship Summary The Roderick and Solange MacArthur Justice Center (MJC) is looking for students committed to transformational justice. MJC is accepting applications from current 1L and 2L law students for summer internships in Chicago, Illinois, and New Orleans, Louisiana, and for current 2L students in Washington, D.C. These are hybrid internships; Students must spend 2-3 days per week in the office and reside within commuting distance to the",
+      "date_posted": "2026-09-12",
+      "salary": "$52,000 – $52,000",
+      "source": "Adzuna",
+      "j1_score": 76
+    },
+    {
+      "title": "Student Engagement Coordinator - IC",
+      "company": "Institute For Latino Progress",
+      "location": "Lower West Side, Chicago",
+      "url": "https://www.adzuna.com/details/5891508051?utm_medium=api&utm_source=7c00c798",
+      "description": "Student Engagement Coordinator - IC POSITION DESCRIPTION Under the general direction of the Director of Student Financial Affairs, the Student Engagement Coordinator is responsible for comprehensive administrative support of the day-to-day operations related to administration duties. The Student Engagement Coordinator is the point of contact for prospect students, staff, faculty and visitors entering the campus and is responsible for student enga",
+      "date_posted": "2026-09-20",
+      "salary": "$50,000 – $52,000",
+      "source": "Adzuna",
+      "j1_score": 41
+    }
+  ]
+}
