@@ -1,10 +1,21 @@
 {
-  "scan_date": "2026-10-12",
-  "scanned_at": "2026-10-12T21:34:31Z",
+  "scan_date": "2026-10-13",
+  "scanned_at": "2026-10-13T19:45:32Z",
   "location": "Lincoln Park, Chicago, IL",
   "radius_miles": 13,
   "total_jobs": 2,
   "jobs": [
+    {
+      "title": "Law Student Summer Law Clerk",
+      "company": "Illinois Bone and Joint Institute LLC",
+      "location": "Park Ridge, Cook County",
+      "url": "https://www.adzuna.com/land/ad/5926147865?se=wlf6oT7H8RGpP9fItoBIjQ&utm_medium=api&utm_source=7c00c798&v=F833F4B87AB356B5D0D53BB634733EFF17BA1A1F",
+      "description": "Our Legal Department is small and high-trust, and our Law Clerk Program offers hands-on experience with the legal and business issues facing a healthcare organization. You will work directly with the General Counsel and legal team on research, contracts, compliance, and active matters, developing the judgment and practical skills that connect law school to in house practice. Legal Research and Analysis — research healthcare, corporate, employment",
+      "date_posted": "2026-10-13",
+      "salary": "$70,542 – $70,542",
+      "source": "Adzuna",
+      "j1_score": 66
+    },
     {
       "title": "Student Engagement Coordinator - IC",
       "company": "Institute For Latino Progress",
@@ -15,17 +26,6 @@
       "salary": "$50,000 – $52,000",
       "source": "Adzuna",
       "j1_score": 41
-    },
-    {
-      "title": "Sports and Recreation Leadership Instructor",
-      "company": "After School Matters",
-      "location": "Schiller Park, Cook County",
-      "url": "https://www.adzuna.com/land/ad/5924806442?se=gMDSrYTG8RGWsPUaVM20eg&utm_medium=api&utm_source=7c00c798&v=0788BC2379D837F01C535A6434CAFA695DF0C959",
-      "description": "Job Description Job Description Summary of Position: After School Matters is seeking Sport & Recreation Leadership instructors to begin working in Fall 2026 or Spring 2027. ASM is seeking committed, part-time instructors to facilitate in-person programs for 15-30 high school participants (15:1, instructor: teen ratio) between the ages of 14 to 20. Youth enrolled in the program will engage in activities that will prepare them to be leaders in the ",
-      "date_posted": "2026-10-12",
-      "salary": "$58,204 – $58,204",
-      "source": "Adzuna",
-      "j1_score": 37
     }
   ]
 }
