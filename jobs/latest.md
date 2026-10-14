@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** October 13, 2026  
+**Date:** October 14, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 2  
-**Top J1 picks (score ≥ 65):** 1
+**Total listings:** 1  
+**Top J1 picks (score ≥ 65):** 0
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -11,17 +11,7 @@
 
 ## ⭐ Top J1-Recommended Listings
 
-### Law Student Summer Law Clerk
-**Company:** Illinois Bone and Joint Institute LLC  
-**Location:** Park Ridge, Cook County  
-**Salary:** $70,542 – $70,542  
-**J1 Score:** 🟡 66/100  
-**Posted:** 2026-10-13 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/land/ad/5926147865?se=wlf6oT7H8RGpP9fItoBIjQ&utm_medium=api&utm_source=7c00c798&v=F833F4B87AB356B5D0D53BB634733EFF17BA1A1F)
-
-> Our Legal Department is small and high-trust, and our Law Clerk Program offers hands-on experience with the legal and business issues facing a healthcare organization. You will work directly with the General Counsel and legal team on research, contracts, compliance, and active matters, developing the judgment and practical skills that connect law school to in house practice. Legal Research and Analysis — research healthcare, corporate, employment
-
----
+_No high-scoring listings today — check back tomorrow._
 
 ## Other Listings
 
