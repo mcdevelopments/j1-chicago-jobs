@@ -1,6 +1,6 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** October 22, 2026  
+**Date:** October 23, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
 **Total listings:** 3  
 **Top J1 picks (score ≥ 65):** 3
@@ -14,7 +14,7 @@
 ### Summer Law Clerk Program
 **Company:** Quintairos, Prieto, Wood & Boyer, P.A.  
 **Location:** The Loop, Chicago  
-**Salary:** $76,135 – $76,135  
+**Salary:** $77,152 – $77,152  
 **J1 Score:** 🟡 66/100  
 **Posted:** 2026-10-20 | **Source:** Adzuna  
 **Apply:** [View listing](https://www.adzuna.com/details/5936157219?utm_medium=api&utm_source=7c00c798)
