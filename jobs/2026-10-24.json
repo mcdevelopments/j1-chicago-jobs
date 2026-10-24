@@ -1,0 +1,42 @@
+{
+  "scan_date": "2026-10-24",
+  "scanned_at": "2026-10-24T16:27:00Z",
+  "location": "Lincoln Park, Chicago, IL",
+  "radius_miles": 13,
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Summer Law Clerk Program",
+      "company": "Quintairos, Prieto, Wood & Boyer, P.A.",
+      "location": "The Loop, Chicago",
+      "url": "https://www.adzuna.com/details/5936157219?utm_medium=api&utm_source=7c00c798",
+      "description": "Join a Team of Difference Makers At QPWB, we are committed to cultivating legal talent, promoting diversity, and providing a supportive, collaborative environment where you can develop your career and make meaningful contributions. We celebrate different perspectives and encourage you to bring your unique strengths to our firm. Quintairos, Prieto, Wood & Boyer, P.A., the largest minority owned national law firm in the United States, is inviting t",
+      "date_posted": "2026-10-20",
+      "salary": "$77,152 – $77,152",
+      "source": "Adzuna",
+      "j1_score": 66
+    },
+    {
+      "title": "City of Chicago Summer Law Clerk Program",
+      "company": "AIRPORT MINORITY ADVISORY COUNCIL",
+      "location": "The Loop, Chicago",
+      "url": "https://www.adzuna.com/details/5932687212?utm_medium=api&utm_source=7c00c798",
+      "description": "Apply Here- https://www.chicago.gov/city/en/depts/dol/supp_info/summer-law-clerk.html The program provides law students with the opportunity to work on intellectually challenging legal matters, expand knowledge of the legal field, participate in networking events, and engage with the legal community at behind-the-scenes tours of City Departments, meet and greets with City Officials and members of the State and Federal Judiciary. Law students cler",
+      "date_posted": "2026-10-17",
+      "salary": "$66,533 – $66,533",
+      "source": "Adzuna",
+      "j1_score": 66
+    },
+    {
+      "title": "Kids Camp Counselor",
+      "company": "Life Time",
+      "location": "South Austin, Chicago",
+      "url": "https://www.adzuna.com/details/5937519793?utm_medium=api&utm_source=7c00c798",
+      "description": "Position Summary The Kids Camp Counselor leads children through a variety of activities including rock climbing, swimming, weekly field trips, arts & crafts, gym games and more. They incorporate nutrition education with weekly-themed camps providing a high level of safety and fun for children from ages three to twelve years. Job Duties and Responsibilities Engages children in interactive activities including organized arts and crafts, singing, sp",
+      "date_posted": "2026-10-22",
+      "salary": "$52,273 – $52,273",
+      "source": "Adzuna",
+      "j1_score": 56
+    }
+  ]
+}
