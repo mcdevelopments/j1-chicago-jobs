@@ -1,10 +1,21 @@
 {
-  "scan_date": "2026-11-07",
-  "scanned_at": "2026-11-07T17:57:15Z",
+  "scan_date": "2026-11-08",
+  "scanned_at": "2026-11-08T18:13:59Z",
   "location": "Lincoln Park, Chicago, IL",
   "radius_miles": 13,
-  "total_jobs": 3,
+  "total_jobs": 4,
   "jobs": [
+    {
+      "title": "Summer Recreation Intern - 2027",
+      "company": "Kenilworth Park District",
+      "location": "Kenilworth, Cook County",
+      "url": "https://www.adzuna.com/details/5957799340?utm_medium=api&utm_source=7c00c798",
+      "description": "Title: Paid Summer Recreation Internship Dates of Employment - 8 to 10 Week Options Description: The Kenilworth Park District offers a quality internship program to students working toward a degree within the field of parks and recreation or related areas of study. The internship provides a comprehensive experience of district operations, including administration, programming, employee management, facility management, camps, historic properties, ",
+      "date_posted": "2026-11-08",
+      "salary": "$37,886 – $37,886",
+      "source": "Adzuna",
+      "j1_score": 88
+    },
     {
       "title": "Summer Law Clerk Program",
       "company": "Quintairos, Prieto, Wood & Boyer, P.A.",
