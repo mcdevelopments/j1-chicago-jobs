@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** November 09, 2026  
+**Date:** November 10, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 4  
-**Top J1 picks (score ≥ 65):** 4
+**Total listings:** 5  
+**Top J1 picks (score ≥ 65):** 5
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -20,6 +20,18 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5957799340?utm_medium=api&utm_source=7c00c798)
 
 > Title: Paid Summer Recreation Internship Dates of Employment - 8 to 10 Week Options Description: The Kenilworth Park District offers a quality internship program to students working toward a degree within the field of parks and recreation or related areas of study. The internship provides a comprehensive experience of district operations, including administration, programming, employee management, facility management, camps, historic properties, 
+
+---
+
+### Summer Associate, Investment Funds — 10-Week Program
+**Company:** DLA Piper  
+**Location:** Schiller Park, Cook County  
+**Salary:** $143,021 – $143,021  
+**J1 Score:** 🟡 74/100  
+**Posted:** 2026-11-10 | **Source:** Adzuna  
+**Apply:** [View listing](https://www.adzuna.com/land/ad/5960607944?se=nD58YkPd8RGxnsm2izC-GQ&utm_medium=api&utm_source=7c00c798&v=63EB8D4986AC78987FF0053A3A3957931A3E17BA)
+
+> DLA Piper’s Investment Funds group seeks exceptional law students for its summer program in Chicago and other offices. You may be considered for 1L (2027 summer) or 2L (2028 summer). You should have an entrepreneurial mindset and a drive to build your legal skills and client insight. As a summer associate, you will work on transactional matters, receive in-depth training, and join a supportive team. The program includes networking through social 
 
 ---
 
