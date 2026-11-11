@@ -1,9 +1,9 @@
 {
-  "scan_date": "2026-11-10",
-  "scanned_at": "2026-11-10T20:14:56Z",
+  "scan_date": "2026-11-11",
+  "scanned_at": "2026-11-11T20:01:09Z",
   "location": "Lincoln Park, Chicago, IL",
   "radius_miles": 13,
-  "total_jobs": 5,
+  "total_jobs": 4,
   "jobs": [
     {
       "title": "Summer Recreation Intern - 2027",
@@ -15,17 +15,6 @@
       "salary": "$37,886 – $37,886",
       "source": "Adzuna",
       "j1_score": 88
-    },
-    {
-      "title": "Summer Associate, Investment Funds — 10-Week Program",
-      "company": "DLA Piper",
-      "location": "Schiller Park, Cook County",
-      "url": "https://www.adzuna.com/land/ad/5960607944?se=nD58YkPd8RGxnsm2izC-GQ&utm_medium=api&utm_source=7c00c798&v=63EB8D4986AC78987FF0053A3A3957931A3E17BA",
-      "description": "DLA Piper’s Investment Funds group seeks exceptional law students for its summer program in Chicago and other offices. You may be considered for 1L (2027 summer) or 2L (2028 summer). You should have an entrepreneurial mindset and a drive to build your legal skills and client insight. As a summer associate, you will work on transactional matters, receive in-depth training, and join a supportive team. The program includes networking through social ",
-      "date_posted": "2026-11-10",
-      "salary": "$143,021 – $143,021",
-      "source": "Adzuna",
-      "j1_score": 74
     },
     {
       "title": "Summer Law Clerk Program",
