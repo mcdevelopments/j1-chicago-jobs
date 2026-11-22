@@ -1,9 +1,9 @@
 # 🏙️ Chicago J1 Summer Jobs — Daily Scan
 
-**Date:** November 21, 2026  
+**Date:** November 22, 2026  
 **Area:** Lincoln Park, Chicago, IL + 13 mile radius  
-**Total listings:** 2  
-**Top J1 picks (score ≥ 65):** 2
+**Total listings:** 1  
+**Top J1 picks (score ≥ 65):** 1
 
 > Automated daily scan for summer & seasonal jobs suited to a J1 Work & Travel visa holder. Jobs scored 0–100: entry-level, seasonal, hospitality roles score highest.
 
@@ -20,18 +20,6 @@
 **Apply:** [View listing](https://www.adzuna.com/details/5957799340?utm_medium=api&utm_source=7c00c798)
 
 > Title: Paid Summer Recreation Internship Dates of Employment - 8 to 10 Week Options Description: The Kenilworth Park District offers a quality internship program to students working toward a degree within the field of parks and recreation or related areas of study. The internship provides a comprehensive experience of district operations, including administration, programming, employee management, facility management, camps, historic properties, 
-
----
-
-### Kids Camp Counselor
-**Company:** Life Time  
-**Location:** South Austin, Chicago  
-**Salary:** $52,273 – $52,273  
-**J1 Score:** 🟡 56/100  
-**Posted:** 2026-10-22 | **Source:** Adzuna  
-**Apply:** [View listing](https://www.adzuna.com/details/5937519793?utm_medium=api&utm_source=7c00c798)
-
-> Position Summary The Kids Camp Counselor leads children through a variety of activities including rock climbing, swimming, weekly field trips, arts & crafts, gym games and more. They incorporate nutrition education with weekly-themed camps providing a high level of safety and fun for children from ages three to twelve years. Job Duties and Responsibilities Engages children in interactive activities including organized arts and crafts, singing, sp
 
 ---
 
